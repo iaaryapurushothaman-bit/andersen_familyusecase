@@ -1,0 +1,4621 @@
+[  1]  Al Muhaidib Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Muhaidib
+  Industry            : Real Estate, Food & Beverage
+  Revenue             : $5B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Sulaiman Al Muhaidib
+  Position            : Group Chairman
+  Contact Person      : Sulaiman Al Muhaidib
+  LinkedIn            : https://linkedin.com/in/sulaiman-al-muhaidib-92239317
+
+[  2]  Abdul Latif Jameel
+--------------------------------------------------------------------------------------------
+  Family              : Jameel
+  Industry            : Automotive & Diversified
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Mohammed A.L. Jameel
+  Position            : Chairman
+  Contact Person      : Mohammed Jameel
+  LinkedIn            : https://linkedin.com/in/mohammed-jameel
+
+[  3]  Al-Futtaim Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Futtaim
+  Industry            : Retail, Automotive & Real Estate
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Omar Al Futtaim
+  Position            : Group CEO / Vice Chairman
+  Contact Person      : Omar Al Futtaim
+  LinkedIn            : https://linkedin.com/in/omar-al-futtaim
+
+[  4]  Majid Al Futtaim
+--------------------------------------------------------------------------------------------
+  Family              : Al Futtaim
+  Industry            : Retail/Malls
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Ahmed Galal Ismail
+  Position            : —
+  Contact Person      : Ahmed Galal Ismail
+  LinkedIn            : https://linkedin.com/in/ahmed-galal-ismail-046546
+
+[  5]  SEDCO Holding
+--------------------------------------------------------------------------------------------
+  Family              : Bin Mahfouz
+  Industry            : Investment
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Rasha Al Darwish
+  Position            : —
+  Contact Person      : Rasha Al Darwish
+  LinkedIn            : https://linkedin.com/in/rasha-al-darwish-2a220728
+
+[  6]  Zamil Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Zamil
+  Industry            : Industrial
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Adib Al Zamil
+  Position            : —
+  Contact Person      : Adib Al Zamil
+  LinkedIn            : https://linkedin.com/in/adib-al-zamil
+
+[  7]  Juffali
+--------------------------------------------------------------------------------------------
+  Family              : Juffali
+  Industry            : Energy, Technology
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Khaled Juffali
+  Position            : Chairman
+  Contact Person      : Khaled Juffali
+  LinkedIn            : https://linkedin.com/in/khaled-juffali
+
+[  8]  Ajlan & Bros Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al Ajlan
+  Industry            : Diversified
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Ajlan Al Ajlan
+  Position            : —
+  Contact Person      : Massimo Galli
+  LinkedIn            : https://linkedin.com/in/massimogalli
+
+[  9]  AlNahla Group
+--------------------------------------------------------------------------------------------
+  Family              : Sharbatly
+  Industry            : Real Estate
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Abdulrahman Sharbatly
+  Position            : —
+  Contact Person      : Abdulrahman Sharbatly
+  LinkedIn            : https://linkedin.com/in/abdulrahman-sharbatly
+
+[ 10]  Naghi & Sons Group
+--------------------------------------------------------------------------------------------
+  Family              : Naghi
+  Industry            : Auto/FMCG
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Yousuf Naghi
+  Position            : —
+  Contact Person      : Yousuf Naghi
+  LinkedIn            : https://linkedin.com/in/yousuf-naghi
+
+[ 11]  Zahid Group
+--------------------------------------------------------------------------------------------
+  Family              : Zahid
+  Industry            : Construction
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Talal Zahid
+  Position            : —
+  Contact Person      : Waleed Yousuf Zahid
+  LinkedIn            : https://linkedin.com/in/waleed-zahid
+
+[ 12]  Al Faisaliah Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Khorayef
+  Industry            : Pharma/Divers
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Mohammed Al-Khorayef
+  Position            : —
+  Contact Person      : Mohammed K.A. Al Faisal
+  LinkedIn            : https://linkedin.com/in/al-faisaliah
+
+[ 13]  Rashed Al Rashed
+--------------------------------------------------------------------------------------------
+  Family              : Al Rashed
+  Industry            : Construction
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Abdulaziz Al Rashed
+  Position            : —
+  Contact Person      : Abdulaziz Al Rashed
+  LinkedIn            : https://linkedin.com/in/abdulaziz-al-rashed
+
+[ 14]  Nesma & Partners
+--------------------------------------------------------------------------------------------
+  Family              : Al-Turki
+  Industry            : Real Estate, Construction
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Abdulaziz Al-Turki
+  Position            : Chairman
+  Contact Person      : Angus Wilson
+  LinkedIn            : https://linkedin.com/in/angus-wilson-5a0b7111
+
+[ 15]  Rawabi Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al-Turki
+  Industry            : Energy
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Abdulaziz Al-Turki
+  Position            : —
+  Contact Person      : Abdulaziz AlTurki
+  LinkedIn            : https://linkedin.com/in/abdulaziz-alturki
+
+[ 16]  Al Othaim Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al Othaim
+  Industry            : Retail
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Abdullah Al Othaim
+  Position            : —
+  Contact Person      : Abdullah Al Othaim
+  LinkedIn            : https://linkedin.com/in/al-othaim
+
+[ 17]  Alkhorayef Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Khorayef
+  Industry            : Water/Energy
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Saad Al Khorayef
+  Position            : —
+  Contact Person      : Saad Al Khorayef
+  LinkedIn            : https://linkedin.com/in/saad-alkhorayef
+
+[ 18]  Alghanim Industries
+--------------------------------------------------------------------------------------------
+  Family              : Alghanim
+  Industry            : Automotive, Retail
+  Revenue             : $3B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Kutayba Alghanim
+  Position            : Executive Chairman
+  Contact Person      : Kutayba Alghanim
+  LinkedIn            : https://linkedin.com/in/kutayba-alghanim
+
+[ 19]  Power International
+--------------------------------------------------------------------------------------------
+  Family              : Al Khayyat
+  Industry            : Diversified
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Moutaz Al Khayyat
+  Position            : —
+  Contact Person      : Moutaz Al Khayyat
+  LinkedIn            : https://linkedin.com/in/moutaz-al-khayyat
+
+[ 20]  Al Faisal Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al Thani
+  Industry            : Hospitality
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Faisal Bin Qassim
+  Position            : —
+  Contact Person      : Faisal Bin Qassim Al Thani
+  LinkedIn            : https://linkedin.com/in/faisal-bin-qassim
+
+[ 21]  Alfardan Group
+--------------------------------------------------------------------------------------------
+  Family              : Alfardan
+  Industry            : Luxury/Divers
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Hussein Alfardan
+  Position            : —
+  Contact Person      : Hussein Alfardan
+  LinkedIn            : https://linkedin.com/in/hussein-alfardan
+
+[ 22]  Hassan Allam
+--------------------------------------------------------------------------------------------
+  Family              : Allam
+  Industry            : Construction
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Kamal Hassan Allam
+  Position            : —
+  Contact Person      : Kamal Hassan Allam
+  LinkedIn            : https://linkedin.com/in/kamal-allam
+
+[ 23]  Almajdouie Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Majdouie
+  Industry            : Logistics
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Abdullah Al Majdouie
+  Position            : —
+  Contact Person      : Abdullah Al Majdouie
+  LinkedIn            : https://linkedin.com/in/abdullah-al-majdouie
+
+[ 24]  Alesayi Holding
+--------------------------------------------------------------------------------------------
+  Family              : Alesayi
+  Industry            : Automotive, Real Estate
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Omar Alesayi
+  Position            : President & CEO
+  Contact Person      : Omar Alesayi
+  LinkedIn            : https://linkedin.com/in/alesayi
+
+[ 25]  Alfanar Projects
+--------------------------------------------------------------------------------------------
+  Family              : Al-Fozan
+  Industry            : Energy/Indus
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Sabah Al-Mutlaq
+  Position            : —
+  Contact Person      : Khalaf Alkhamesi
+  LinkedIn            : https://linkedin.com/in/kh9
+
+[ 26]  Chalhoub Group
+--------------------------------------------------------------------------------------------
+  Family              : Chalhoub
+  Industry            : Luxury Retail
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Patrick Chalhoub
+  Position            : —
+  Contact Person      : Patrick Chalhoub
+  LinkedIn            : https://linkedin.com/in/patrickchallhoub
+
+[ 27]  DAMAC Group
+--------------------------------------------------------------------------------------------
+  Family              : Sajwani
+  Industry            : Real Estate, Retail
+  Revenue             : $3B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Hussain Sajwani
+  Position            : Founder & Chairman
+  Contact Person      : Hussain Sajwani
+  LinkedIn            : https://linkedin.com/in/hussain-sajwani
+
+[ 28]  Lootah Group
+--------------------------------------------------------------------------------------------
+  Family              : Lootah
+  Industry            : Diversified
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Yahya Lootah
+  Position            : —
+  Contact Person      : Yahya Lootah
+  LinkedIn            : https://linkedin.com/in/yahya-lootah
+
+[ 29]  AW Rostamani
+--------------------------------------------------------------------------------------------
+  Family              : Rostamani
+  Industry            : Auto/Divers
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Khalid Al Rostamani
+  Position            : —
+  Contact Person      : Khalid Al Rostamani
+  LinkedIn            : https://linkedin.com/in/khalid-al-rostamani
+
+[ 30]  Easa Saleh Al Gurg
+--------------------------------------------------------------------------------------------
+  Family              : Al Gurg
+  Industry            : Retail/Logist
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Muna Al Gurg
+  Position            : —
+  Contact Person      : Muna Al Gurg
+  LinkedIn            : https://linkedin.com/in/muna-al-gurg
+
+[ 31]  GMG
+--------------------------------------------------------------------------------------------
+  Family              : Baker
+  Industry            : Retail, Technology
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Mohammad A. Baker
+  Position            : Deputy Chairman & CEO
+  Contact Person      : Manish Borad
+  LinkedIn            : https://linkedin.com/in/manish-borad-69309766
+
+[ 32]  Crescent Group
+--------------------------------------------------------------------------------------------
+  Family              : Jafar
+  Industry            : Energy/Ports
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Badr Jafar
+  Position            : —
+  Contact Person      : Badr Jafar
+  LinkedIn            : https://linkedin.com/in/badr-jafar
+
+[ 33]  Al Shirawi Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Shirawi
+  Industry            : Industrial
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Navin Valrani
+  Position            : —
+  Contact Person      : Navin Valrani
+  LinkedIn            : https://linkedin.com/in/navin-valrani
+
+[ 34]  Kanoo Group
+--------------------------------------------------------------------------------------------
+  Family              : Kanoo
+  Industry            : Shipping
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Mishal Kanoo
+  Position            : —
+  Contact Person      : Mishal Kanoo
+  LinkedIn            : https://linkedin.com/in/mishal-kanoo
+
+[ 35]  Darwish Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al-Darwish
+  Industry            : Real Estate, Retail
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Bader Al-Darwish
+  Position            : Chairman & Managing Director
+  Contact Person      : Bader Al-Darwish
+  LinkedIn            : https://linkedin.com/in/bader-al-darwish
+
+[ 36]  Al Mulla Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Mulla
+  Industry            : Diversified
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Talal Al Mulla
+  Position            : —
+  Contact Person      : Talal Al Mulla
+  LinkedIn            : https://linkedin.com/in/talal-al-mulla
+
+[ 37]  BoodaiCorp
+--------------------------------------------------------------------------------------------
+  Family              : Boodai
+  Industry            : Media/Avia
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Jassim Boodai
+  Position            : —
+  Contact Person      : Jassim Boodai
+  LinkedIn            : https://linkedin.com/in/jassim-boodai
+
+[ 38]  YBA Kanoo
+--------------------------------------------------------------------------------------------
+  Family              : Kanoo
+  Industry            : Diversified
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Fawzi Kanoo
+  Position            : —
+  Contact Person      : Fawzi Kanoo
+  LinkedIn            : https://linkedin.com/in/fawzi-kanoo
+
+[ 39]  Saud Bahwan
+--------------------------------------------------------------------------------------------
+  Family              : Bahwan
+  Industry            : Auto/Divers
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Mohammed Saud Bahwan
+  Position            : —
+  Contact Person      : Mohammed Saud Bahwan
+  LinkedIn            : https://linkedin.com/in/mohammed-saud-bahwan-9505a613a
+
+[ 40]  Suhail Bahwan
+--------------------------------------------------------------------------------------------
+  Family              : Bahwan
+  Industry            : Industrial
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Suhail Bahwan
+  Position            : —
+  Contact Person      : Suhail Bahwan
+  LinkedIn            : https://linkedin.com/in/suhail-bahwan
+
+[ 41]  Zubair Corp
+--------------------------------------------------------------------------------------------
+  Family              : Al Zubair
+  Industry            : Diversified
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Rashad Al Zubair
+  Position            : —
+  Contact Person      : Rashad Al Zubair
+  LinkedIn            : https://linkedin.com/in/rashad-zubair-6860ab217
+
+[ 42]  Xenel Industries
+--------------------------------------------------------------------------------------------
+  Family              : Alireza
+  Industry            : Industrial
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Khalid Alireza
+  Position            : —
+  Contact Person      : Khalid Alireza
+  LinkedIn            : https://linkedin.com/in/khalid-alireza
+
+[ 43]  Al-Kifah Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al Afaleq
+  Industry            : Diversified
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : Medium
+  Decision Maker      : Osama Al Afaleq
+  Position            : —
+  Contact Person      : Osama Al Afaleq
+  LinkedIn            : https://linkedin.com/in/osama-al-afaleq
+
+[ 44]  Al Jomaih Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Jomaih
+  Industry            : Energy, Real Estate & Beverages
+  Revenue             : $500M–$1B
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Abdulaziz Al Jomaih
+  Position            : Chairman
+  Contact Person      : Abdulaziz Al Jomaih
+  LinkedIn            : https://linkedin.com/in/al-jomaih
+
+[ 45]  Al Habtoor Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Habtoor
+  Industry            : Real Estate, Hospitality
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Khalaf Ahmad Al Habtoor
+  Position            : Founding Chairman
+  Contact Person      : Khalaf Al Habtoor
+  LinkedIn            : https://linkedin.com/in/khalaf-al-habtoor
+
+[ 46]  Khalid Ali Alturki & Sons
+--------------------------------------------------------------------------------------------
+  Family              : Al-Turki
+  Industry            : Construction & Engineering
+  Revenue             : $500M–$1B
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Khaled Al-Turki
+  Position            : CEO / Managing Director
+  Contact Person      : Khaled Al-Turki
+  LinkedIn            : https://linkedin.com/in/khaled-al-turki
+
+[ 47]  MBC Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Ibrahim
+  Industry            : Media & Entertainment
+  Revenue             : $500M–$1B
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Sam Barnett
+  Position            : Group CEO
+  Contact Person      : Charbel Chaaya
+  LinkedIn            : https://linkedin.com/in/charbel-chaaya
+
+[ 48]  Zamil Industrial (SENAAT)
+--------------------------------------------------------------------------------------------
+  Family              : Zamil
+  Industry            : Industrial Manufacturing
+  Revenue             : $500M–$1B
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Eng. Osama Al-Zamil
+  Position            : Group CEO
+  Contact Person      : Abdulla Al Zamil
+  LinkedIn            : https://linkedin.com/in/abdulla-al-zamil
+
+[ 49]  Rawabi Holding Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Harthy
+  Industry            : Energy Services & Engineering
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Walid Al-Harthy
+  Position            : Group CEO
+  Contact Person      : Walid Al-Harthy
+  LinkedIn            : https://linkedin.com/in/walid-al-harthy
+
+[ 50]  Ajlan & Bros Holding
+--------------------------------------------------------------------------------------------
+  Family              : Ajlan
+  Industry            : Diversified Conglomerate
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Faisal Ajlan
+  Position            : Group CEO
+  Contact Person      : Massimo Galli
+  LinkedIn            : https://linkedin.com/in/massimogalli
+
+[ 51]  Rajhi Invest
+--------------------------------------------------------------------------------------------
+  Family              : Al-Rajhi
+  Industry            : Real Estate, Healthcare
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Yazeed Al-Rajhi
+  Position            : Chairman
+  Contact Person      : Yazeed Al-Rajhi
+  LinkedIn            : https://linkedin.com/in/yazeed-al-rajhi
+
+[ 52]  MAG Group Holding
+--------------------------------------------------------------------------------------------
+  Family              : Gaddah
+  Industry            : Real Estate, Investment/Finance
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Moafaq Ahmad Al Gaddah
+  Position            : Founder & Chairman
+  Contact Person      : Moafaq Ahmad Al Gaddah
+  LinkedIn            : https://linkedin.com/in/moafaq-al-gaddah
+
+[ 53]  Tiger Group
+--------------------------------------------------------------------------------------------
+  Family              : AlZoubi
+  Industry            : Real Estate, Healthcare
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Waleed Mohammad AlZoubi
+  Position            : Chairman
+  Contact Person      : Waleed Mohammad AlZoubi
+  LinkedIn            : https://linkedin.com/in/waleed-alzoubi
+
+[ 54]  Alkhorayef Group Company (AGC)
+--------------------------------------------------------------------------------------------
+  Family              : Alkhorayef
+  Industry            : Automotive, Energy
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Saad Alkhorayef
+  Position            : Chairman
+  Contact Person      : Saad Alkhorayef
+  LinkedIn            : https://linkedin.com/in/saad-alkhorayef
+
+[ 55]  BoodaiCorp
+--------------------------------------------------------------------------------------------
+  Family              : Boodai
+  Industry            : Energy, Investment/Finance
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Jassim Boodai; Marwan Boodai
+  Position            : Chairman; Vice Chairman
+  Contact Person      : Jassim Boodai
+  LinkedIn            : https://linkedin.com/in/jassim-boodai
+
+[ 56]  Suhail Bahwan Group
+--------------------------------------------------------------------------------------------
+  Family              : Bahwan
+  Industry            : Automotive, Healthcare
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Suhail Bahwan
+  Position            : Chairman
+  Contact Person      : Suhail Bahwan
+  LinkedIn            : https://linkedin.com/in/suhail-bahwan
+
+[ 57]  Obeikan Investment Group (OIG)
+--------------------------------------------------------------------------------------------
+  Family              : Obeikan
+  Industry            : Investment/Finance, Logistics
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Abdallah Obeikan
+  Position            : CEO
+  Contact Person      : Abdallah Obeikan
+  LinkedIn            : https://linkedin.com/in/abdallah-obeikan
+
+[ 58]  Easa Saleh Al Gurg Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Gurg
+  Industry            : Real Estate, Retail
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Raja Easa Al Gurg
+  Position            : Chairperson & Managing Director
+  Contact Person      : Muna Al Gurg
+  LinkedIn            : https://linkedin.com/in/muna-al-gurg
+
+[ 59]  The Zubair Corporation
+--------------------------------------------------------------------------------------------
+  Family              : Zubair
+  Industry            : Real Estate, Energy
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Rashad Mohammad Al Zubair
+  Position            : Chairperson
+  Contact Person      : Rashad Al Zubair
+  LinkedIn            : https://linkedin.com/in/rashad-zubair-6860ab217
+
+[ 60]  Al Masaood Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Masaood
+  Industry            : Automotive, Real Estate
+  Revenue             : $2B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Masaood Ahmed Al Masaood
+  Position            : Chairman
+  Contact Person      : Masaood Ahmed Al Masaood
+  LinkedIn            : https://linkedin.com/in/al-masaood
+
+[ 61]  Mazrui International
+--------------------------------------------------------------------------------------------
+  Family              : Mazrui
+  Industry            : Real Estate, Retail
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Abdullah Mohammed Al Mazrui
+  Position            : Chairman
+  Contact Person      : Aurelie Mayolle
+  LinkedIn            : https://linkedin.com/in/aurélie-mayolle-771358115
+
+[ 62]  Rawabi Holding
+--------------------------------------------------------------------------------------------
+  Family              : AlTurki
+  Industry            : Energy, Investment/Finance
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Abdulaziz AlTurki
+  Position            : Chairman
+  Contact Person      : Abdulaziz AlTurki
+  LinkedIn            : https://linkedin.com/in/abdulaziz-alturki
+
+[ 63]  HSA Group
+--------------------------------------------------------------------------------------------
+  Family              : Saeed
+  Industry            : Automotive, Real Estate
+  Revenue             : $5B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Abdul Jabbar Hayel Saeed
+  Position            : Chairman & CEO
+  Contact Person      : Abdul Jabbar Hayel Saeed
+  LinkedIn            : https://linkedin.com/in/hsa-group
+
+[ 64]  Bait Al Batterjee Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Batterjee
+  Industry            : Automotive, Healthcare
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Sobhi Batterjee
+  Position            : Chairman
+  Contact Person      : Sobhi Batterjee
+  LinkedIn            : https://linkedin.com/in/sobhi-batterjee
+
+[ 65]  Mohamed & Obaid Almulla Group
+--------------------------------------------------------------------------------------------
+  Family              : Almulla
+  Industry            : Automotive, Real Estate
+  Revenue             : $2B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Buti Obaid AlMulla
+  Position            : Chairman
+  Contact Person      : Buti Obaid AlMulla
+  LinkedIn            : https://linkedin.com/in/buti-almulla
+
+[ 66]  Al Khayyat Investments (AKI)
+--------------------------------------------------------------------------------------------
+  Family              : Al Khayyat
+  Industry            : Automotive, Retail
+  Revenue             : $1B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Zaid S. Al Khayyat
+  Position            : Managing Director
+  Contact Person      : Zaid S. Al Khayyat
+  LinkedIn            : https://linkedin.com/in/zaid-al-khayyat
+
+[ 67]  Zahid Group
+--------------------------------------------------------------------------------------------
+  Family              : Zahid
+  Industry            : Automotive, Manufacturing
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Waleed Yousuf Zahid
+  Position            : Chairman
+  Contact Person      : Waleed Yousuf Zahid
+  LinkedIn            : https://linkedin.com/in/waleed-zahid
+
+[ 68]  AW Rostamani Group
+--------------------------------------------------------------------------------------------
+  Family              : Rostamani
+  Industry            : Automotive, Real Estate
+  Revenue             : $2B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Khalid Al Rostamani
+  Position            : Chairman & Group CEO
+  Contact Person      : Khalid Al Rostamani
+  LinkedIn            : https://linkedin.com/in/khalid-al-rostamani
+
+[ 69]  Zamil Group Holding Company
+--------------------------------------------------------------------------------------------
+  Family              : AlZamil
+  Industry            : Real Estate, Energy
+  Revenue             : $3B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Khalid AlZamil
+  Position            : Chairman
+  Contact Person      : Khalid AlZamil
+  LinkedIn            : https://linkedin.com/in/khalid-al-zamil
+
+[ 70]  S.S. Lootah Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Lootah
+  Industry            : Automotive, Real Estate
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Yahya Bin Saeed Al-Lootah
+  Position            : Chairman
+  Contact Person      : Yahya Bin Saeed Al-Lootah
+  LinkedIn            : https://linkedin.com/in/yahya-lootah
+
+[ 71]  Hassan Allam Holding
+--------------------------------------------------------------------------------------------
+  Family              : Allam
+  Industry            : Real Estate, Energy
+  Revenue             : $3B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Hassan Allam; Amr Allam
+  Position            : Co-CEOs
+  Contact Person      : Kamal Hassan Allam
+  LinkedIn            : https://linkedin.com/in/kamal-allam
+
+[ 72]  Alshaya Group
+--------------------------------------------------------------------------------------------
+  Family              : Alshaya
+  Industry            : Retail, Food & Beverage
+  Revenue             : $3B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Mohammed Abdulaziz Alshaya
+  Position            : Executive Chairman
+  Contact Person      : Mohammed Alshaya
+  LinkedIn            : https://linkedin.com/in/mohammed-alshaya
+
+[ 73]  Saud Bahwan Group
+--------------------------------------------------------------------------------------------
+  Family              : Bahwan
+  Industry            : Automotive, Real Estate
+  Revenue             : $3B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Mohammed Saud Bahwan
+  Position            : Chairman
+  Contact Person      : Mohammed Saud Bahwan
+  LinkedIn            : https://linkedin.com/in/mohammed-saud-bahwan-9505a613a
+
+[ 74]  Ajlan & Bros Holding
+--------------------------------------------------------------------------------------------
+  Family              : Ajlan
+  Industry            : Real Estate, Energy
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Ajlan Abdul-Aziz Al Ajlan
+  Position            : Chairman
+  Contact Person      : Massimo Galli
+  LinkedIn            : https://linkedin.com/in/massimogalli
+
+[ 75]  Yousuf M.A. Naghi & Sons Group
+--------------------------------------------------------------------------------------------
+  Family              : Naghi
+  Industry            : Automotive, Investment/Finance
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Mohamed Yousuf Naghi
+  Position            : Chairman
+  Contact Person      : Mohamed Yousuf Naghi
+  LinkedIn            : https://linkedin.com/in/yousuf-naghi
+
+[ 76]  Al Ghurair Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Ghurair
+  Industry            : Automotive, Real Estate
+  Revenue             : $4B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Iyad Malas
+  Position            : Group Chief Executive Officer
+  Contact Person      : Iyad Malas
+  LinkedIn            : https://linkedin.com/in/iyad-malas-1aa4b732
+
+[ 77]  Al Othaim Holding Company
+--------------------------------------------------------------------------------------------
+  Family              : Al Othaim
+  Industry            : Retail, Food & Beverage
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Abdullah Bin Saleh Al Othaim
+  Position            : Chairman
+  Contact Person      : Abdullah Al Othaim
+  LinkedIn            : https://linkedin.com/in/al-othaim
+
+[ 78]  SEDCO Holding
+--------------------------------------------------------------------------------------------
+  Family              : Binmahfouz
+  Industry            : Automotive, Real Estate
+  Revenue             : $4B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Yaser Binmahfouz
+  Position            : Chairman
+  Contact Person      : Rasha Al Darwish
+  LinkedIn            : https://linkedin.com/in/rasha-al-darwish-2a220728
+
+[ 79]  Al Faisal Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al Faisal
+  Industry            : Automotive, Real Estate
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Faisal Bin Qassim Al Thani
+  Position            : Founder & Chairman
+  Contact Person      : Faisal Bin Qassim Al Thani
+  LinkedIn            : https://linkedin.com/in/faisal-bin-qassim
+
+[ 80]  Al Ghurair
+--------------------------------------------------------------------------------------------
+  Family              : Al Ghurair
+  Industry            : Automotive, Real Estate
+  Revenue             : $10B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Abdul Aziz Abdulla Al Ghurair
+  Position            : Chairman of the Executive Committee
+  Contact Person      : Iyad Malas
+  LinkedIn            : https://linkedin.com/in/iyad-malas-1aa4b732
+
+[ 81]  Al-Futtaim
+--------------------------------------------------------------------------------------------
+  Family              : Al-Futtaim
+  Industry            : Automotive, Real Estate
+  Revenue             : $6B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Omar Al Futtaim
+  Position            : Vice Chairman & CEO
+  Contact Person      : Omar Al Futtaim
+  LinkedIn            : https://linkedin.com/in/omar-al-futtaim
+
+[ 82]  Abdul Latif Jameel
+--------------------------------------------------------------------------------------------
+  Family              : Jameel
+  Industry            : Automotive, Energy
+  Revenue             : $8B+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Mohammed Abdul Latif Jameel
+  Position            : Chairman
+  Contact Person      : Mohammed Jameel
+  LinkedIn            : https://linkedin.com/in/mohammed-jameel
+
+[ 83]  Zamil Industrial Investment Company
+--------------------------------------------------------------------------------------------
+  Family              : Al-Zamil
+  Industry            : Real Estate, Manufacturing
+  Revenue             : $500M+
+  Tier                : T1
+  Governance          : High
+  Decision Maker      : Abdulla Mohammed Al Zamil
+  Position            : Chairman
+  Contact Person      : Abdulla Mohammed Al Zamil
+  LinkedIn            : https://linkedin.com/in/abdulla-al-zamil
+
+[ 84]  Zamil Industrial
+--------------------------------------------------------------------------------------------
+  Family              : Al Zamil
+  Industry            : Manufacturing
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : High
+  Decision Maker      : Abdulla Al Zamil
+  Position            : —
+  Contact Person      : Abdulla Al Zamil
+  LinkedIn            : https://linkedin.com/in/abdulla-al-zamil
+
+[ 85]  Bait Al Batterjee
+--------------------------------------------------------------------------------------------
+  Family              : Batterjee
+  Industry            : Healthcare
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Sobhi Batterjee
+  Position            : —
+  Contact Person      : Sobhi Batterjee
+  LinkedIn            : https://linkedin.com/in/sobhi-batterjee
+
+[ 86]  Al Masaood Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Masaood
+  Industry            : Industrial
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Masaood Al Masaood
+  Position            : —
+  Contact Person      : Masaood Ahmed Al Masaood
+  LinkedIn            : https://linkedin.com/in/al-masaood
+
+[ 87]  Obeikan Invest.
+--------------------------------------------------------------------------------------------
+  Family              : Obeikan
+  Industry            : Packaging
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Abdallah Obeikan
+  Position            : —
+  Contact Person      : Abdallah Obeikan
+  LinkedIn            : https://linkedin.com/in/abdallah-obeikan
+
+[ 88]  Tamer Group
+--------------------------------------------------------------------------------------------
+  Family              : Tamer
+  Industry            : Pharma/Health
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Ayman Tamer
+  Position            : —
+  Contact Person      : Ayman Tamer
+  LinkedIn            : https://linkedin.com/in/ayman-tamer
+
+[ 89]  Alturki Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al Turki
+  Industry            : Diversified
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : High
+  Decision Maker      : Rami Al Turki
+  Position            : —
+  Contact Person      : Rami Al Turki
+  LinkedIn            : https://linkedin.com/in/rami-al-turki
+
+[ 90]  Sumou Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al-Qahtani
+  Industry            : Real Estate
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Ayedh Al-Qahtani
+  Position            : —
+  Contact Person      : Ayedh Al-Qahtani
+  LinkedIn            : https://linkedin.com/in/ayedh-al-qahtani
+
+[ 91]  Rajhi Invest
+--------------------------------------------------------------------------------------------
+  Family              : Al Rajhi
+  Industry            : Investment
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Khalid Al Rajhi
+  Position            : —
+  Contact Person      : Yazeed Al-Rajhi
+  LinkedIn            : https://linkedin.com/in/yazeed-al-rajhi
+
+[ 92]  Al Jomaih Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al Jomaih
+  Industry            : Auto/Indus
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Hamad Al Jomaih
+  Position            : —
+  Contact Person      : Hamad Al Jomaih
+  LinkedIn            : https://linkedin.com/in/hamad-al-jomaih
+
+[ 93]  Al Rushaid Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Rushaid
+  Industry            : Oil & Gas
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Rasheed Al Rushaid
+  Position            : —
+  Contact Person      : Rasheed Al Rushaid
+  LinkedIn            : https://linkedin.com/in/rasheed-alrushaid-591276159
+
+[ 94]  Bin Omairah Holding
+--------------------------------------------------------------------------------------------
+  Family              : Bin Omairah
+  Industry            : Infrastructure
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Low
+  Decision Maker      : Fahad Bin Omairah
+  Position            : —
+  Contact Person      : Fahad Bin Omairah
+  LinkedIn            : https://linkedin.com/in/fahad-bin-omairah-43a2b165
+
+[ 95]  IHCC
+--------------------------------------------------------------------------------------------
+  Family              : Al-Sudairy
+  Industry            : Construction
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Sultan Batterjee
+  Position            : —
+  Contact Person      : Sultan Batterjee
+  LinkedIn            : https://linkedin.com/in/sultan-batterjee
+
+[ 96]  Alkifah Contracting
+--------------------------------------------------------------------------------------------
+  Family              : Al Afaleq
+  Industry            : Construction
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Osama Al Afaleq
+  Position            : —
+  Contact Person      : Osama Al Afaleq
+  LinkedIn            : https://linkedin.com/in/osama-al-afaleq
+
+[ 97]  Mofarreh Al-Harbi
+--------------------------------------------------------------------------------------------
+  Family              : Al-Harbi
+  Industry            : Construction
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Low
+  Decision Maker      : Mofarreh Al Harbi
+  Position            : —
+  Contact Person      : Mofarreh Al Harbi
+  LinkedIn            : https://linkedin.com/in/mofarreh-al-harbi
+
+[ 98]  Almabani
+--------------------------------------------------------------------------------------------
+  Family              : Nehme
+  Industry            : Construction
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : High
+  Decision Maker      : Joseph Nehme
+  Position            : —
+  Contact Person      : Joseph Nehme
+  LinkedIn            : https://linkedin.com/in/joseph-nehme
+
+[ 99]  Al Khayyat Inv.
+--------------------------------------------------------------------------------------------
+  Family              : Al Khayyat
+  Industry            : Diversified
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : —
+  Position            : —
+  Contact Person      : Zaid S. Al Khayyat
+  LinkedIn            : https://linkedin.com/in/zaid-al-khayyat
+
+[100]  Mazrui International
+--------------------------------------------------------------------------------------------
+  Family              : Mazrui
+  Industry            : Energy/Indus
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : —
+  Position            : —
+  Contact Person      : Aurelie Mayolle
+  LinkedIn            : https://linkedin.com/in/aurélie-mayolle-771358115
+
+[101]  Tiger Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Zubi
+  Industry            : Diversified
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : —
+  Position            : —
+  Contact Person      : Waleed Mohammad AlZoubi
+  LinkedIn            : https://linkedin.com/in/waleed-alzoubi
+
+[102]  Ghassan Aboud Group
+--------------------------------------------------------------------------------------------
+  Family              : Aboud
+  Industry            : Logistics
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Ghassan Aboud
+  Position            : —
+  Contact Person      : Ghassan Aboud
+  LinkedIn            : https://linkedin.com/in/ghassan-aboud
+
+[103]  AbuIssa Holding
+--------------------------------------------------------------------------------------------
+  Family              : Abu Issa
+  Industry            : Retail/Trading
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Ashraf Abu Issa
+  Position            : —
+  Contact Person      : Ashraf Abu Issa
+  LinkedIn            : https://linkedin.com/in/ashraf-abu-issa
+
+[104]  Alzayani Invest
+--------------------------------------------------------------------------------------------
+  Family              : Al Zayani
+  Industry            : Diversified
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : High
+  Decision Maker      : Nawaf Al Zayani
+  Position            : —
+  Contact Person      : Nawaf Al Zayani
+  LinkedIn            : https://linkedin.com/in/nawaf-k-al-zayani-b181b624
+
+[105]  Towell Group
+--------------------------------------------------------------------------------------------
+  Family              : Towell
+  Industry            : Diversified
+  Revenue             : $500M-$1B
+  Tier                : T2
+  Governance          : High
+  Decision Maker      : Hussain Jawad
+  Position            : —
+  Contact Person      : Hussain Jawad
+  LinkedIn            : https://linkedin.com/in/hussain-jawad-6b659326
+
+[106]  Al Rushaid Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Rushaid
+  Industry            : Oil & Gas Services & Industrial
+  Revenue             : $500M–$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : —
+  Position            : —
+  Contact Person      : Rasheed Al Rushaid
+  LinkedIn            : https://linkedin.com/in/rasheed-alrushaid-591276159
+
+[107]  Zahid Group
+--------------------------------------------------------------------------------------------
+  Family              : Zahid
+  Industry            : Automotive & Heavy Equipment
+  Revenue             : $500M–$1B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Ali Zahid
+  Position            : Group CEO
+  Contact Person      : Waleed Yousuf Zahid
+  LinkedIn            : https://linkedin.com/in/waleed-zahid
+
+[108]  Tamer Group
+--------------------------------------------------------------------------------------------
+  Family              : Tamer
+  Industry            : Healthcare & FMCG
+  Revenue             : $200M–$500M
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Khalid Said Tamer
+  Position            : Chairman / Group CEO
+  Contact Person      : Ayman Tamer
+  LinkedIn            : https://linkedin.com/in/ayman-tamer
+
+[109]  AlNahla Group
+--------------------------------------------------------------------------------------------
+  Family              : AlNahla
+  Industry            : Automotive, Real Estate
+  Revenue             : $500M+
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Abdulrahman Hassan Sharbatly
+  Position            : Chairman & CEO
+  Contact Person      : Abdulrahman Sharbatly
+  LinkedIn            : https://linkedin.com/in/abdulrahman-sharbatly
+
+[110]  Majid Al Futtaim – Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al Futtaim
+  Industry            : Retail, Hospitality
+  Revenue             : $11B+
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Ahmed Galal Ismail
+  Position            : Chief Executive Officer
+  Contact Person      : Ahmed Galal Ismail
+  LinkedIn            : https://linkedin.com/in/ahmed-galal-ismail-046546
+
+[111]  Fawaz Alhokair Group
+--------------------------------------------------------------------------------------------
+  Family              : Alhokair
+  Industry            : Retail, Real Estate
+  Revenue             : $1.7B
+  Tier                : T2
+  Governance          : Medium
+  Decision Maker      : Fawaz Alhokair
+  Position            : Chairman
+  Contact Person      : Fawaz Alhokair
+  LinkedIn            : https://linkedin.com/in/fawaz-alhokair
+
+[112]  Al-Kholi Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Kholi
+  Industry            : Diversified
+  Revenue             : $50M-$500M
+  Tier                : T3
+  Governance          : Low
+  Decision Maker      : Hamza Al Kholi
+  Position            : —
+  Contact Person      : Hamza Al Kholi
+  LinkedIn            : https://linkedin.com/in/hamza-al-kholi
+
+[113]  Sherbiny Holdings
+--------------------------------------------------------------------------------------------
+  Family              : Sherbiny
+  Industry            : Indus Serv.
+  Revenue             : $50M-$500M
+  Tier                : T3
+  Governance          : Medium
+  Decision Maker      : Majed Sherbiny
+  Position            : —
+  Contact Person      : Majed Sherbiny
+  LinkedIn            : https://linkedin.com/in/majed-sherbiny
+
+[114]  Binghatti Holding
+--------------------------------------------------------------------------------------------
+  Family              : Binghatti
+  Industry            : Real Estate, Investment/Finance
+  Revenue             : $1.7B
+  Tier                : T3
+  Governance          : Low
+  Decision Maker      : Muhammad BinGhatti
+  Position            : Chairman
+  Contact Person      : Muhammad BinGhatti
+  LinkedIn            : https://linkedin.com/in/muhammad-binghatti-b4b158173
+
+[115]  Sumou Holding Company
+--------------------------------------------------------------------------------------------
+  Family              : Al-Qahtani
+  Industry            : Real Estate, Investment/Finance
+  Revenue             : $500M+
+  Tier                : T3
+  Governance          : Low
+  Decision Maker      : Ayedh Al-Qahtani
+  Position            : Chairman
+  Contact Person      : Ayedh Al-Qahtani
+  LinkedIn            : https://linkedin.com/in/ayedh-al-qahtani
+
+[116]  Power International Holding (PIH)
+--------------------------------------------------------------------------------------------
+  Family              : Khayyat
+  Industry            : Automotive, Real Estate
+  Revenue             : $500M+
+  Tier                : T3
+  Governance          : Low
+  Decision Maker      : Moutaz Al Khayyat; Ramez Al Khayyat
+  Position            : Group Chairman; President & Group CEO
+  Contact Person      : Moutaz Al Khayyat
+  LinkedIn            : https://linkedin.com/in/moutaz-al-khayyat
+
+[117]  The First Group
+--------------------------------------------------------------------------------------------
+  Family              : (International Investment)
+  Industry            : Real Estate, Hospitality
+  Revenue             : $500M+
+  Tier                : T3
+  Governance          : Low
+  Decision Maker      : Rob Burns
+  Position            : CEO
+  Contact Person      : Rob Burns
+  LinkedIn            : https://linkedin.com/in/rob-burns-the-first-group
+
+[ 51]  Zamil Industrial Investment Company
+--------------------------------------------------------------------------------------------
+  Family              : Al-Zamil
+  Country             : Saudi Arabia
+  Industry            : Real Estate, Manufacturing
+  Established         : 1998
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Abdulla Mohammed Al Zamil
+  Role / Position     : Chairman
+  Opportunity Signals : It is among the largest groups in the Middle East and provides several products and solutions, such as pre-engineered steel buildings, structural steel products, and air conditioning systems.
+                        In November 2024, the business began the expansion of its production facilities in Saudi Arabia and Egypt to boost its production capacity and meet regional demand for steel and HVAC solutions.
+
+[ 52]  Suntop Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Fozan
+  Country             : Saudi Arabia
+  Industry            : Real Estate, Manufacturing
+  Established         : 1969
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Abdullatif Al Fozan; Khalid Al Fozan
+  Role / Position     : Chairman; CEO
+  Opportunity Signals : The Suntop Group, which traces its roots to the Al Fozan Group, has a diverse portfolio including building materials, metals, electronics, logistics, and real estate.
+                        In 2024, it expanded its footprint by launching a new furniture and home decor subsidiary and entered into a joint venture with a global logistics provider to enhance its distribution network in the GCC.
+
+[ 53]  SARA Group
+--------------------------------------------------------------------------------------------
+  Family              : El-Seif
+  Country             : Saudi Arabia
+  Industry            : Retail, Real Estate
+  Established         : 1967
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Khaled El-Seif
+  Role / Position     : Chairman
+  Opportunity Signals : SARA Group is a distributor of luxury lifestyle products and has over 70 showrooms across the Middle East.
+                        In 2024, the group entered into exclusive distribution agreements with several European luxury brands for the Saudi and U.A.E. markets.
+
+[ 54]  The Commercial Real Estate Company (Al Tijaria)
+--------------------------------------------------------------------------------------------
+  Family              : Al-Mutawa
+  Country             : Kuwait
+  Industry            : Real Estate, Hospitality
+  Established         : 1968
+  Revenue Range       : $500M+
+  Tier                : Tier 2
+  Governance          : Medium
+  Key Decision Maker  : Abdulfatah M. R. Marafie
+  Role / Position     : Chairman
+  Opportunity Signals : Al Tijaria recorded $104 million in revenues and had total assets of $1.8 billion in 2024.
+                        Its presence spans Kuwait, the U.A.E., Bahrain, and Oman, with a portfolio comprising hotels, residential real estate, malls, and mixed-use developments.
+
+[ 55]  Ebrahim K. Kanoo
+--------------------------------------------------------------------------------------------
+  Family              : Kanoo
+  Country             : Bahrain
+  Industry            : Automotive, Logistics
+  Established         : 1950
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Fuad Kanoo
+  Role / Position     : Vice Chairman
+  Opportunity Signals : In April 2025, Ebrahim K. Kanoo announced a partnership with a global supply chain technology company to digitize its logistics operations in Bahrain.
+                        In October 2024, it launched a new state-of-the-art service center for Toyota and Lexus in Bahrain, featuring advanced sustainable technologies.
+
+[ 56]  Tamimi Group
+--------------------------------------------------------------------------------------------
+  Family              : Tamimi
+  Country             : Saudi Arabia
+  Industry            : Retail, Food & Beverage
+  Established         : 1953
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Tariq al-Tamimi
+  Role / Position     : Chairman
+  Opportunity Signals : Tamimi Group operates across 30 sectors, including retail, food distribution, construction, and power.
+                        In November 2024, Tamimi Markets, a subsidiary of the group, signed a joint venture agreement with Mitsui & Co. to develop advanced food production facilities in Saudi Arabia.
+
+[ 57]  Sedar Global
+--------------------------------------------------------------------------------------------
+  Family              : Selo
+  Country             : U.A.E.
+  Industry            : Real Estate, Retail
+  Established         : 1892
+  Revenue Range       : $500M+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Nahel Selo
+  Role / Position     : Creative Director
+  Opportunity Signals : Sedar Global has over 80 showrooms across the Middle East and North Africa and is among the region’s largest window dressing and wallcovering providers.
+                        In October 2024, the company launched a new digital platform to offer AI-powered design consultations for its global customer base.
+
+[ 58]  Alsulaiman Group
+--------------------------------------------------------------------------------------------
+  Family              : Alsulaiman
+  Country             : Saudi Arabia
+  Industry            : Retail, Logistics
+  Established         : 1983
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Saud Ghassan Alsulaiman
+  Role / Position     : CEO
+  LinkedIn            : https://linkedin.com/in/saud-alsulaiman
+  Opportunity Signals : Alsulaiman Group represents several international brands in the Middle East, such as IKEA, Flow, and Ehidna.
+                        In 2024, Alsulaiman Group and its logistics subsidiary, Flow, signed a strategic agreement with an e-commerce giant to manage its fulfillment and distribution operations in Saudi Arabia.
+
+[ 59]  Nesto Group
+--------------------------------------------------------------------------------------------
+  Family              : Basheer
+  Country             : U.A.E.
+  Industry            : Retail, Food & Beverage
+  Established         : 2004
+  Revenue Range       : $2B+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : K.P. Basheer
+  Role / Position     : Chairman
+  Opportunity Signals : Nesto Group has over 120 hypermarkets and supermarkets across the Middle East and India.
+                        In 2024, the business opened its largest fulfillment center in Sharjah, covering 500,000 square feet, to boost its e-commerce capabilities.
+
+[ 60]  Ali & Sons Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al Dhaheri
+  Country             : U.A.E.
+  Industry            : Automotive, Energy
+  Established         : 1979
+  Revenue Range       : $2B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Ahmed Bin Ali Al Dhaheri
+  Role / Position     : Chairman
+  LinkedIn            : https://linkedin.com/in/ahmed-al-dhaheri
+  Opportunity Signals : In 2024, Ali & Sons Motors, the distributor for Audi, Volkswagen, and Porsche in Abu Dhabi, launched a new electronic vehicle showroom in the city.
+                        The group’s oil and gas subsidiary signed a multi-year service contract with ADNOC in late 2024 to provide precision engineering solutions for offshore projects.
+
+[ 61]  Kandil Steel
+--------------------------------------------------------------------------------------------
+  Family              : Kandil
+  Country             : Egypt
+  Industry            : Manufacturing, Construction
+  Established         : 1865
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Amr Kandil
+  Role / Position     : CEO
+  Opportunity Signals : Kandil Steel exports to over 40 countries across Africa, Europe, and the Middle East.
+                        In 2024, the company announced an investment of $50 million to upgrade its cold rolling and galvanizing lines to meet the growing demand for flat-steel products in Egypt and regional markets.
+
+[ 62]  Lulu Group International
+--------------------------------------------------------------------------------------------
+  Family              : Ali
+  Country             : U.A.E.
+  Industry            : Retail, Food & Beverage
+  Established         : 2000
+  Revenue Range       : $8B+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Yusuff Ali M.A.
+  Role / Position     : Chairman & Managing Director
+  Opportunity Signals : In 2024, Lulu Group opened its 270th hypermarket and announced plans to invest $1.1 billion in Saudi Arabia by 2026.
+                        The company is also expanding across Southeast Asia, with new projects underway in Malaysia and Indonesia.
+
+[ 63]  Astra Industrial Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Masri
+  Country             : Saudi Arabia
+  Industry            : Healthcare, Manufacturing
+  Established         : 1988
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Sabih Al-Masri
+  Role / Position     : Chairman
+  Opportunity Signals : Astra Industrial Group operates in five sectors: pharmaceuticals, specialty chemicals, power and steel, mining, and food and agriculture.
+                        In October 2024, its pharmaceutical arm, Tabuk Pharmaceuticals, signed a partnership agreement with a global biotech firm to manufacture advanced treatments for chronic diseases in Saudi Arabia.
+
+[ 64]  Gharaffa Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Thani
+  Country             : Qatar
+  Industry            : Real Estate, Investment/Finance
+  Established         : 1990
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Hamad bin Jassim bin Jaber Al Thani
+  Role / Position     : Founder
+  Opportunity Signals : In 2024, the group announced a major new luxury residential and hospitality development in Doha, valued at $1.5 billion.
+                        As of April 2025, Al Thani’s net worth was $1.2 billion.
+
+[ 65]  BinDawood Holding
+--------------------------------------------------------------------------------------------
+  Family              : BinDawood
+  Country             : Saudi Arabia
+  Industry            : Retail, Food & Beverage
+  Established         : 1984
+  Revenue Range       : $1.4B
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Ahmad BinDawood
+  Role / Position     : CEO
+  LinkedIn            : https://linkedin.com/in/ahmad-bindawood
+  Opportunity Signals : BinDawood Holding operates two major retail brands, BinDawood and Danube, with over 80 stores across Saudi Arabia.
+                        In late 2024, the company acquired a French marketing tech firm to boost its digital transformation and personalize its customer loyalty programs.
+
+[ 66]  Al-Hazm Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Emadi
+  Country             : Qatar
+  Industry            : Real Estate, Retail
+  Established         : 1995
+  Revenue Range       : $500M+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Mohammed Al Emadi
+  Role / Position     : CEO
+  Opportunity Signals : Al-Hazm is a luxury retail and dining destination in Doha, and the group has expanded into real estate development and high-end hospitality.
+                        In 2024, the group launched "Al Hazm II," a $500 million expansion project featuring over 50 designer brands and premium restaurants.
+
+[ 67]  Bahwan CyberTek
+--------------------------------------------------------------------------------------------
+  Family              : Bahwan
+  Country             : Oman
+  Industry            : Technology, Logistics
+  Established         : 1999
+  Revenue Range       : $500M+
+  Tier                : Tier 2
+  Governance          : Medium
+  Key Decision Maker  : Hind Bahwan
+  Role / Position     : Founder & Chairperson
+  Opportunity Signals : Bahwan CyberTek provides digital transformation solutions to the oil and gas, logistics, and banking sectors.
+                        In November 2024, the company launched its AI-driven predictive maintenance platform for energy companies in the GCC.
+
+[ 68]  Khalifa Juma Al Nabooda Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Nabooda
+  Country             : U.A.E.
+  Industry            : Automotive, Real Estate
+  Established         : 1963
+  Revenue Range       : $1B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Khalifa Juma Al Nabooda
+  Role / Position     : Chairman
+  Opportunity Signals : The group operates over 25 companies across automotive, construction, real estate, and hospitality.
+                        In 2024, Al Nabooda Automobiles launched two new luxury vehicle showrooms in Dubai and the Northern Emirates.
+
+[ 69]  Omran Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Mahrouqi
+  Country             : Oman
+  Industry            : Real Estate, Hospitality
+  Established         : 2005
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Hashil Bin Obaid Al Mahrouqi
+  Role / Position     : CEO
+  LinkedIn            : https://linkedin.com/in/hashil-al-mahrouqi
+  Opportunity Signals : Omran Group is the Sultanate’s executive arm for tourism development and has a portfolio of over 30 hotels and mixed-use projects.
+                        In 2024, the group signed a partnership agreement with a global developer for a $2.4 billion integrated tourism project in Muscat.
+
+[ 70]  Almarai Company
+--------------------------------------------------------------------------------------------
+  Family              : Savola Group; Al Kabeer
+  Country             : Saudi Arabia
+  Industry            : Food & Beverage, Agriculture
+  Established         : 1977
+  Revenue Range       : $5B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Prince Naif bin Sultan bin Mohammed bin Saud Al Kabeer
+  Role / Position     : Chairman
+  Opportunity Signals : Almarai is the world's largest vertically integrated dairy company and recorded $5.5 billion in revenues in 2024.
+                        In December 2024, Almarai announced an investment of $1.2 billion for the expansion of its poultry business in Saudi Arabia over the next five years.
+
+[ 71]  Fawaz Alhokair Group
+--------------------------------------------------------------------------------------------
+  Family              : Alhokair
+  Country             : Saudi Arabia
+  Industry            : Retail, Real Estate
+  Established         : 1990
+  Revenue Range       : $1.7B
+  Tier                : Tier 2
+  Governance          : Medium
+  Key Decision Maker  : Fawaz Alhokair
+  Role / Position     : Chairman
+  Opportunity Signals : Its retail arm, Cenomi Retail, operates over 1,500 stores across 10 countries, and its real estate arm, Cenomi Centers, is the largest mall developer in Saudi Arabia.
+                        In 2024, Cenomi Centers opened two new flagship malls in Riyadh and Jeddah.
+
+[ 72]  Apparel Group
+--------------------------------------------------------------------------------------------
+  Family              : Ved
+  Country             : U.A.E.
+  Industry            : Retail, Food & Beverage
+  Established         : 1996
+  Revenue Range       : $2B+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Nilesh Ved
+  Role / Position     : Chairman
+  LinkedIn            : https://linkedin.com/in/nilesh-ved-583b3815b
+  Opportunity Signals : Apparel Group represents over 80 international brands and has over 2,100 stores across 14 countries.
+                        In early 2025, the group signed a licensing agreement with a global athleisure brand to launch 50 new stores across India and the GCC.
+
+[ 73]  Besix Group
+--------------------------------------------------------------------------------------------
+  Family              : (Joint Venture with Orascom)
+  Country             : U.A.E.
+  Industry            : Real Estate, Construction
+  Established         : 1909
+  Revenue Range       : $3B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Pierre Sironval
+  Role / Position     : CEO
+  Opportunity Signals : Orascom Construction owns the Group, which is among the leading construction groups in the Middle East.
+                        In late 2024, Besix, in a joint venture, was awarded a $1.2 billion contract for the construction of a major infrastructure project in Saudi Arabia.
+
+[ 74]  Nesma & Partners
+--------------------------------------------------------------------------------------------
+  Family              : Al-Turki
+  Country             : Saudi Arabia
+  Industry            : Real Estate, Construction
+  Established         : 1981
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Abdulaziz Al-Turki
+  Role / Position     : Chairman
+  Opportunity Signals : In 2024, PIF acquired a stake in Nesma & Partners, which has a portfolio of mega-projects in Saudi Arabia, including the Red Sea Project and NEOM.
+
+[ 75]  Sobha Realty
+--------------------------------------------------------------------------------------------
+  Family              : Menon
+  Country             : U.A.E.
+  Industry            : Real Estate, Manufacturing
+  Established         : 1976
+  Revenue Range       : $1.5B
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : PNC Menon
+  Role / Position     : Chairman
+  Opportunity Signals : Sobha Realty has a multi-billion dollar project pipeline in Dubai and is among the region’s largest backward-integrated real estate companies.
+                        In late 2024, it launched Sobha Hartland II, an $8 billion project featuring high-end villas and luxury residences.
+
+[ 76]  El Araby Group
+--------------------------------------------------------------------------------------------
+  Family              : El Araby
+  Country             : Egypt
+  Industry            : Manufacturing, Retail
+  Established         : 1964
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Ibrahim El Araby
+  Role / Position     : Chairman
+  Opportunity Signals : El Araby Group is one of Egypt's largest manufacturers of home appliances and consumer electronics.
+                        In 2024, it signed a manufacturing agreement with a global technology firm to produce high-tech home appliances for the African and Middle Eastern markets.
+
+[ 77]  Al Ghurair Foods
+--------------------------------------------------------------------------------------------
+  Family              : Al Ghurair
+  Country             : U.A.E.
+  Industry            : Food & Beverage, Agriculture
+  Established         : 1976
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Essa Al Ghurair
+  Role / Position     : Chairman
+  Opportunity Signals : Al Ghurair Foods operates across milling, refining, and food manufacturing sectors.
+                        In November 2024, it launched a new range of plant-based protein products to meet the increasing demand for sustainable food solutions in the region.
+
+[ 78]  Sama Jordan
+--------------------------------------------------------------------------------------------
+  Family              : Al-Refai
+  Country             : Jordan
+  Industry            : Technology, Food & Beverage
+  Established         : 2007
+  Revenue Range       : $500M+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Samir Al-Refai
+  Role / Position     : Chairman
+  Opportunity Signals : In 2024, Sama Jordan expanded its investments in Jordan’s tech and food sectors by launching a new digital payment platform and a sustainable food packagi
+
+[ 79]  Arabian Construction Company (ACC)
+--------------------------------------------------------------------------------------------
+  Family              : Merehbi; Mikati
+  Country             : U.A.E.
+  Industry            : Real Estate, Construction
+  Established         : 1967
+  Revenue Range       : $1B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Ghassan Merehbi
+  Role / Position     : Chairman
+  Opportunity Signals : ACC has built some of the iconic buildings in the GCC, and in 2024, it was awarded two major skyscraper projects in Dubai and Riyadh, with a combined value of over $900 million.
+
+[ 80]  Alesayi Holding
+--------------------------------------------------------------------------------------------
+  Family              : Alesayi
+  Country             : Saudi Arabia
+  Industry            : Automotive, Real Estate
+  Established         : 1945
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Omar Alesayi
+  Role / Position     : President & CEO
+  LinkedIn            : https://linkedin.com/in/omar-alesayi
+  Opportunity Signals : Alesayi Holding’s operations span consumer goods, electronics, real estate, and automotive.
+                        In 2024, Alesayi Motors, the distributor for Mitsubishi in Saudi Arabia, announced plans to launch a new range of electric and hybrid SUVs by early 2025.
+
+[ 81]  Al Habtoor Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Habtoor
+  Country             : U.A.E.
+  Industry            : Real Estate, Hospitality
+  Established         : 1970
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Khalaf Ahmad Al Habtoor
+  Role / Position     : Founding Chairman
+  LinkedIn            : https://linkedin.com/in/khalaf-al-habtoor
+  Opportunity Signals : The group’s presence spans the hospitality, automotive, real estate, education, and publishing sectors.
+                        In early 2025, Al Habtoor Group launched Al Habtoor Tower in Dubai, which is set to be among the world’s largest residential buildings.
+
+[ 82]  Oman Holding Company
+--------------------------------------------------------------------------------------------
+  Family              : Al-Khonji
+  Country             : Oman
+  Industry            : Real Estate, Investment/Finance
+  Established         : 1920
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Qais Al-Khonji
+  Role / Position     : Chairman
+  Opportunity Signals : In 2024, the group announced a new mixed-use waterfront project in Muscat, featuring luxury residences and high-end retail space.
+
+[ 83]  G.P.C. Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Kuwari
+  Country             : Qatar
+  Industry            : Energy, Construction
+  Established         : 1975
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Hamad Al-Kuwari
+  Role / Position     : Chairman
+  Opportunity Signals : G.P.C. Group is among the leading engineering and construction firms in Qatar, and in late 2024, it was awarded a major contract for the development of North Field gas facilities.
+
+[ 84]  Ithra Dubai
+--------------------------------------------------------------------------------------------
+  Family              : (Investment Corporation of Dubai)
+  Country             : U.A.E.
+  Industry            : Real Estate, Retail
+  Established         : 1980
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Issam Galadari
+  Role / Position     : CEO
+  Opportunity Signals : Ithra Dubai is the developer of the "One Za'abeel" mixed-use project, which features the world’s longest cantilever.
+                        In late 2024, the company launched the second phase of the Deira Enrichment Project, which aims to revitalize the historic Deira gold souk area.
+
+[ 85]  Al Jeraisy Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Jeraisy
+  Country             : Saudi Arabia
+  Industry            : Technology, Manufacturing
+  Established         : 1958
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Abdulrahman Al Jeraisy
+  Role / Position     : Chairman
+  Opportunity Signals : The group is among the largest office automation and IT solutions providers in Saudi Arabia, and in 2024, it signed a strategic agreement with a global technology giant to develop localized AI solutions for the public sector.
+
+[ 86]  Abu Dhabi National Hotels (ADNH)
+--------------------------------------------------------------------------------------------
+  Family              : Al-Mulla
+  Country             : U.A.E.
+  Industry            : Hospitality, Retail
+  Established         : 1976
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Khalid bin Ahmed Al-Mulla
+  Role / Position     : Chairman
+  Opportunity Signals : In 2024, ADNH completed the acquisition of several luxury hotels in Dubai and launched its own premium catering brand.
+
+[ 87]  Khalid bin Hamad Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Khalifa
+  Country             : Bahrain
+  Industry            : Real Estate, Investment/Finance
+  Established         : 2010
+  Revenue Range       : $500M+
+  Tier                : Tier 2
+  Governance          : Medium
+  Key Decision Maker  : Khalid bin Hamad Al Khalifa
+  Role / Position     : Founder
+  Opportunity Signals : In 2024, the group announced new investments in Bahrain’s tech and sports sectors, aimed at boosting international participation in the kingdom’s events.
+
+[ 88]  Al Safadi Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Safadi
+  Country             : U.A.E.
+  Industry            : Retail, Food & Beverage
+  Established         : 1994
+  Revenue Range       : $500M+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Fadi Al Safadi
+  Role / Position     : Chairman
+  Opportunity Signals : Al Safadi Group operates a successful chain of Lebanese restaurants across the U.A.E., and in 2024, it announced plans for a regional expansion into Saudi Arabia and Qatar.
+
+[ 89]  Ezz Steel
+--------------------------------------------------------------------------------------------
+  Family              : Ezz
+  Country             : Egypt
+  Industry            : Manufacturing, Construction
+  Established         : 1994
+  Revenue Range       : $2.5B
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Ahmed Ezz
+  Role / Position     : Chairman
+  Opportunity Signals : Ezz Steel is the largest steel producer in the Middle East and North Africa, and it recorded $2.5 billion in revenues in 2024.
+                        In 2024, the company announced a major investment plan to increase its production capacity and shift toward greener steel production technologies.
+
+[ 90]  Watania Group
+--------------------------------------------------------------------------------------------
+  Family              : (Investment Venture)
+  Country             : Egypt
+  Industry            : Agriculture, Food & Beverage
+  Established         : 1990
+  Revenue Range       : $500M+
+  Tier                : Tier 2
+  Governance          : Medium
+  Key Decision Maker  : Mohamed El-Naggar
+  Role / Position     : CEO
+  Opportunity Signals : Watania is one of the largest poultry and agricultural producers in Egypt, and in late 2024, it announced plans to expand its export market to Gulf countries and Europe.
+
+[ 91]  Qatari Diar
+--------------------------------------------------------------------------------------------
+  Family              : (Qatar Investment Authority)
+  Country             : Qatar
+  Industry            : Real Estate, Hospitality
+  Established         : 2005
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Abdullah bin Hamad Al Attiyah
+  Role / Position     : CEO
+  LinkedIn            : https://linkedin.com/in/abdullah-al-attiyah
+  Opportunity Signals : Qatari Diar has over 50 projects under development across 20 countries.
+                        In late 2024, the company inaugurated Lusail Boulevard, a major commercial and leisure hub in Qatar, featuring dozens of global brands.
+
+[ 92]  Fas Energy
+--------------------------------------------------------------------------------------------
+  Family              : Alhokair
+  Country             : Saudi Arabia
+  Industry            : Energy, Technology
+  Established         : 2013
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Turki Alhokair
+  Role / Position     : CEO
+  Opportunity Signals : Fas Energy, a subsidiary of Fawaz Alhokair Group, is among the region’s largest developers of renewable energy projects. In 2024, it won two major solar project contracts in Saudi Arabia and Egypt, with a combined capacity of 1.5 gigawatts.
+
+[ 93]  Al Raid Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Araimi
+  Country             : Oman
+  Industry            : Real Estate, Retail
+  Established         : 1974
+  Revenue Range       : $500M+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Sheikh Raed bin Mansour Al Araimi
+  Role / Position     : Chairman
+  Opportunity Signals : Al Raid Group is the developer of Al Araimi Boulevard, one of Oman's largest shopping and leisure destinations.
+                        In 2024, the group announced plans to launch a new eco-friendly luxury residential community in Muscat.
+
+[ 94]  The First Group
+--------------------------------------------------------------------------------------------
+  Family              : (International Investment)
+  Country             : U.A.E.
+  Industry            : Real Estate, Hospitality
+  Established         : 2005
+  Revenue Range       : $500M+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Rob Burns
+  Role / Position     : CEO
+  Opportunity Signals : The First Group has an award-winning portfolio of hotels and residential properties in Dubai, and in 2024, it announced the launch of Ciel Tower, which is set to be the world's tallest hotel.
+
+[ 95]  Arada
+--------------------------------------------------------------------------------------------
+  Family              : Bin Sultan Al Qasimi; Alwaleed bin Talal
+  Country             : U.A.E.
+  Industry            : Real Estate, Technology
+  Established         : 2017
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Ahmed Alkhoshaibi
+  Role / Position     : CEO
+  LinkedIn            : https://linkedin.com/in/ahmed-alkhoshaibi
+  Opportunity Signals : Arada is the fastest-growing developer in the Northern Emirates, and in late 2024, it announced "Armani Beach Residences" on the Palm Jumeirah, its first project in Dubai.
+
+[ 96]  Barka Desalination Company
+--------------------------------------------------------------------------------------------
+  Family              : (Ithca Group Oman)
+  Country             : Oman
+  Industry            : Energy, Logistics
+  Established         : 2016
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Patrick Thienpont
+  Role / Position     : CEO
+  Opportunity Signals : Barka Desalination is a key infrastructure provider in Oman, and in 2024, it achieved a major sustainability milestone by reducing its carbon emissions by 20% through renewable energy integration.
+
+[ 97]  Al Ghurair Investment
+--------------------------------------------------------------------------------------------
+  Family              : Al Ghurair
+  Country             : U.A.E.
+  Industry            : Real Estate, Manufacturing
+  Established         : 1960
+  Revenue Range       : $3B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : John Iossifidis
+  Role / Position     : Group CEO
+  LinkedIn            : https://linkedin.com/in/john-iossifidis
+  Opportunity Signals : In late 2024, Al Ghurair Investment announced a strategic partnership with a global sustainable packaging firm to revolutionize its food packaging solutions across the GCC.
+
+[ 98]  Diyar Al Muharraq
+--------------------------------------------------------------------------------------------
+  Family              : (Investment Venture Bahrain)
+  Country             : Bahrain
+  Industry            : Real Estate, Retail
+  Established         : 2006
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Ahmed Alammadi
+  Role / Position     : CEO
+  LinkedIn            : https://linkedin.com/in/ahmed-alammadi
+  Opportunity Signals : Diyar Al Muharraq is one of Bahrain’s largest integrated cities, and in late 2024, it completed several major residential and commercial sectors, including the expansion of Dragon City.
+
+[ 99]  The Olayan Group
+--------------------------------------------------------------------------------------------
+  Family              : Olayan
+  Country             : Saudi Arabia
+  Industry            : Real Estate, Investment/Finance
+  Established         : 1947
+  Revenue Range       : $10B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Camille Abousleiman
+  Role / Position     : CEO
+  Opportunity Signals : The group’s investment portfolio spans global markets, and in late 2024, it announced several new high-impact investments in the technology and sustainable infrastructure sectors in Europe and North America.
+
+[100]  Almarai
+--------------------------------------------------------------------------------------------
+  Family              : Savola; Al Kabeer
+  Country             : Saudi Arabia
+  Industry            : Food & Beverage, Agriculture
+  Established         : 1977
+  Revenue Range       : $5B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Abdullah Al-Badr
+  Role / Position     : CEO
+  LinkedIn            : https://linkedin.com/in/abdullah-al-badr
+  Opportunity Signals : Almarai expanded its food service division with a major acquisition in Egypt in 2024, and in December, it announced plans to invest $1.2 billion in pou
+
+[  1]  Al Muhaidib Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Muhaidib
+  Country             : Saudi Arabia
+  Industry            : Real Estate, Food & Beverage
+  Established         : 1943
+  Revenue Range       : $5B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Sulaiman Al Muhaidib
+  Role / Position     : Group Chairman
+  LinkedIn            : https://linkedin.com/in/sulaiman-al-muhaidib-92239317
+  Opportunity Signals : In October 2024, Al Muhaidib Group, alongside Group AMANA, launched SAMANA, a venture to develop and operate renewable energy in Saudi Arabia.
+                        In February 2025, PIF acquired a 30% stake in the group’s subsidiary Masdar Building Materials.
+
+[  2]  Abdul Latif Jameel
+--------------------------------------------------------------------------------------------
+  Family              : Jameel
+  Country             : Saudi Arabia
+  Industry            : Automotive, Energy
+  Established         : 1945
+  Revenue Range       : $8B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Mohammed Abdul Latif Jameel
+  Role / Position     : Chairman
+  Opportunity Signals : Since the company’s establishment in 1945, Abdul Latif Jameel has expanded to over 30 countries and employs more than 11,000 people.
+                        In September 2024, Jameel Motors announced a major international collaboration with China’s Geely Farizon to distribute vehicles in multiple countries, with agreements signed in the U.K., Australia, and the U.A.E.
+
+[  3]  Al-Futtaim
+--------------------------------------------------------------------------------------------
+  Family              : Al-Futtaim
+  Country             : U.A.E.
+  Industry            : Automotive, Real Estate
+  Established         : 1930
+  Revenue Range       : $6B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Omar Al Futtaim
+  Role / Position     : Vice Chairman & CEO
+  Opportunity Signals : In January 2025, Al-Futtaim Electric Mobility, the regional representative of BYD, signed an MoU with Saudi Arabia-based EVIQ to develop charging infrastructure for electric vehicles.
+                        The group’s owner, Abdulla Al-Futtaim, and his family had a net worth of $4.6 billion as of April 2025.
+
+[  4]  Mansour Group
+--------------------------------------------------------------------------------------------
+  Family              : Mansour
+  Country             : Egypt
+  Industry            : Automotive, Food & Beverage
+  Established         : 1952
+  Revenue Range       : $6B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Mohamed Mansour
+  Role / Position     : Chairman
+  Opportunity Signals : The group has a diverse portfolio, including Man Capital, the Mantrac Group, the Al Mansour Holding Company for Financial Investments, and Manfoods-McDonald's Egypt.
+                        In December 2024, Mansour Automotive signed a technical licensing agreement with China's Shanghai Automotive & Industrial Corporation to manufacture and assemble MG cars in Egypt, with an initial capacity of 50,000 units annually.
+
+[  5]  DAMAC Group
+--------------------------------------------------------------------------------------------
+  Family              : Sajwani
+  Country             : U.A.E.
+  Industry            : Real Estate, Retail
+  Established         : 1982
+  Revenue Range       : $3B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Hussain Sajwani
+  Role / Position     : Founder & Chairman
+  LinkedIn            : https://linkedin.com/in/hussain-sajwani
+  Opportunity Signals : The group’s investment portfolio spans seven core sectors: real estate, capital markets, hotels and resorts, manufacturing, catering, high-end fashion, and data centers.
+                        As of March 2025, DAMAC Properties had delivered over 48,000 units and developed over 50,000, with projects in over 15 countries.
+
+[  6]  Olayan Financing Company (OFC)
+--------------------------------------------------------------------------------------------
+  Family              : Olayan
+  Country             : Saudi Arabia
+  Industry            : Real Estate, Retail
+  Established         : 1947
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Lubna S. Olayan
+  Role / Position     : Chair of the Executive Committee & Deputy Chair
+  Opportunity Signals : The Olayan Group is a subsidiary of Olayan Financing Company (OFC), founded in 1947 as the General Contracting Company.
+                        In April 2024, OFC and Lunate reached an agreement with the Investment Corporation of Dubai and Brookfield Corporation to acquire a 49% stake in ICD Brookfield Place, a commercial and retail property in Dubai.
+
+[  7]  Majid Al Futtaim – Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al Futtaim
+  Country             : U.A.E.
+  Industry            : Retail, Hospitality
+  Established         : 1992
+  Revenue Range       : $11B+
+  Tier                : Tier 2
+  Governance          : Medium
+  Key Decision Maker  : Ahmed Galal Ismail
+  Role / Position     : Chief Executive Officer
+  LinkedIn            : https://linkedin.com/in/ahmed-galal-ismail-056167287
+  Opportunity Signals : It operates 29 malls, seven hotels, and five mixed-use communities, serving over 600 million customers annually.
+                        In 2024, the group recorded assets of $18.7 billion and reported revenues of $9.2 billion.
+
+[  8]  Al Ghurair
+--------------------------------------------------------------------------------------------
+  Family              : Al Ghurair
+  Country             : U.A.E.
+  Industry            : Automotive, Real Estate
+  Established         : 1960
+  Revenue Range       : $10B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Abdul Aziz Abdulla Al Ghurair
+  Role / Position     : Chairman of the Executive Committee
+  Opportunity Signals : Al Ghurair partnered with EXEED Automobile Company as the brand’s exclusive distributor in Saudi Arabia in January 2025, which comes two years after being selected as the automotive brand’s exclusive distributor in the U.A.E.
+
+[  9]  Al Faisal Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al Faisal
+  Country             : Qatar
+  Industry            : Automotive, Real Estate
+  Established         : 1964
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Faisal Bin Qassim Al Thani
+  Role / Position     : Founder & Chairman
+  Opportunity Signals : Its subsidiary, the Al Rayan Tourism Investment Company, owns over 35 hotels across the Middle East, North Africa, Europe, and North America.
+                        Al Faisal Holding’s chairman, Al Thani, had a net worth of $1.8 billion as of April 2025.
+
+[ 10]  Power International Holding (PIH)
+--------------------------------------------------------------------------------------------
+  Family              : Khayyat
+  Country             : Qatar
+  Industry            : Automotive, Real Estate
+  Established         : 2011
+  Revenue Range       : $500M+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Moutaz Al Khayyat; Ramez Al Khayyat
+  Role / Position     : Group Chairman; President & Group CEO
+  Opportunity Signals : Power International Holding (PIH) has over 400 companies across 19 countries operating in energy, concessions and construction, healthcare, professional services and contracting industries, agriculture, and food industries, among others.
+                        In November 2024, PIH began the Zliten Power Plant Project in Libya by URBACON HOLDING, in partnership with Elsewedy Electric and the General Electricity Company of Libya.
+
+[ 11]  SEDCO Holding
+--------------------------------------------------------------------------------------------
+  Family              : Binmahfouz
+  Country             : Saudi Arabia
+  Industry            : Automotive, Real Estate
+  Established         : 1976
+  Revenue Range       : $4B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Yaser Binmahfouz
+  Role / Position     : Chairman
+  LinkedIn            : https://linkedin.com/in/yaser-binmahfouz-92002313
+  Opportunity Signals : Founded by the late Salem Ahmad Binmahfouz, SEDCO Holding manages a diverse portfolio of strategic investments across healthcare, education, hospitality, real estate, and logistics.
+                        In July 2024, SEDCO Holding completed the sale of its fully-owned subsidiary, AutoWorld, to Budget Saudi, in exchange for an 8.96% stake in the latter.
+
+[ 12]  Al Othaim Holding Company
+--------------------------------------------------------------------------------------------
+  Family              : Al Othaim
+  Country             : Saudi Arabia
+  Industry            : Retail, Food & Beverage
+  Established         : 1956
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Abdullah Bin Saleh Al Othaim
+  Role / Position     : Chairman
+  Opportunity Signals : In October 2024, the group’s Abdullah Al Othaim Markets Company listed 33% of its shares of the Fourth Milling Company, with a $229 million IPO on the Saudi Exchange.
+                        In December 2024, the group acquired a 20% stake in Alpha Capital.
+
+[ 13]  Al Ghurair Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Ghurair
+  Country             : U.A.E.
+  Industry            : Automotive, Real Estate
+  Established         : 1960
+  Revenue Range       : $4B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Iyad Malas
+  Role / Position     : Group Chief Executive Officer
+  LinkedIn            : https://linkedin.com/in/iyad-malas-1aa4b732
+  Opportunity Signals : Established in 1960, the Al Ghurair Group today has businesses in industrial, real estate, and investments.
+                        In February 2024, the group's Automotive Precision Technology signed a lease agreement with Khalifa Economic Zones Abu Dhabi for a 30,000-square-meter automotive aluminum component manufacturing facility.
+
+[ 14]  Yousuf M.A. Naghi & Sons Group
+--------------------------------------------------------------------------------------------
+  Family              : Naghi
+  Country             : Saudi Arabia
+  Industry            : Automotive, Investment/Finance
+  Established         : 1911
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Mohamed Yousuf Naghi
+  Role / Position     : Chairman
+  Opportunity Signals : In August 2024, Saudi Arabia-based mobility services provider Lumi signed an agreement with Mohamed Yousuf Naghi Motors, the business automotive arm, to add Ankai buses to Lumi’s rental fleet.
+                        In November 2024, the group formed Jiad International Holding Company to manage its investments and boost growth in its key sectors.
+
+[ 15]  Ajlan & Bros Holding
+--------------------------------------------------------------------------------------------
+  Family              : Ajlan
+  Country             : Saudi Arabia
+  Industry            : Real Estate, Energy
+  Established         : 1979
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Ajlan Abdul-Aziz Al Ajlan
+  Role / Position     : Chairman
+  Opportunity Signals : The group and its partners have also implemented a range of energy, water, and renewable energy projects, with investments exceeding $5.5 billion.
+
+[ 16]  Alghanim Industries
+--------------------------------------------------------------------------------------------
+  Family              : Alghanim
+  Country             : Kuwait
+  Industry            : Automotive, Retail
+  Established         : 1932
+  Revenue Range       : $3B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Kutayba Alghanim
+  Role / Position     : Executive Chairman
+  LinkedIn            : https://linkedin.com/in/kutayba-alghanim
+  Opportunity Signals : In September 2024, Alghanim Industries launched BYD Auto Alghanim in Kuwait, introducing five hybrid and electric models, and inaugurated its new showroom in December.
+                        In February 2025, the company broke ground on a new Kirby Building Systems pre-engineered building and a structural steel manufacturing facility in Saudi Arabia.
+
+[ 17]  AlNahla Group
+--------------------------------------------------------------------------------------------
+  Family              : AlNahla
+  Country             : Saudi Arabia
+  Industry            : Automotive, Real Estate
+  Established         : 1996
+  Revenue Range       : $500M+
+  Tier                : Tier 2
+  Governance          : Medium
+  Key Decision Maker  : Abdulrahman Hassan Sharbatly
+  Role / Position     : Chairman & CEO
+  Opportunity Signals : Founded by Hassan Abbas Sharbatly in the 1930s, the AlNahla Group operates across five clusters: investment, real estate, trading, automotive, and hospitality.
+                        In 2024, the group launched the ‘Jeddah South Fund’ to develop a mixed residential-commercial hub spanning 8.47 million square meters in South Jeddah.
+
+[ 18]  Juffali
+--------------------------------------------------------------------------------------------
+  Family              : Juffali
+  Country             : Saudi Arabia
+  Industry            : Energy, Technology
+  Established         : 1936
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Khaled Juffali
+  Role / Position     : Chairman
+  Opportunity Signals : In the same month, Juffali Home Appliances announced a strategic distribution agreement with BSH Middle East, to expand the reach of Bosch Home Appliances across Saudi Arabia.
+
+[ 19]  Binghatti Holding
+--------------------------------------------------------------------------------------------
+  Family              : Binghatti
+  Country             : U.A.E.
+  Industry            : Real Estate, Investment/Finance
+  Established         : 2008
+  Revenue Range       : $1.7B
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Muhammad BinGhatti
+  Role / Position     : Chairman
+  LinkedIn            : https://linkedin.com/in/muhammad-binghatti-b4b158173
+  Opportunity Signals : Binghatti Holding has rapidly expanded over the past decade, building a portfolio of over 79 projects in Dubai, valued at nearly $14 billion as of March 2025.
+                        Binghatti Developers recorded $1.7 billion in revenues in 2024, and has partnered with global brands like Mercedes-Benz, BUGATTI, and Jacob & Co for branded residences.
+
+[ 20]  Saud Bahwan Group
+--------------------------------------------------------------------------------------------
+  Family              : Bahwan
+  Country             : Oman
+  Industry            : Automotive, Real Estate
+  Established         : 1965
+  Revenue Range       : $3B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Mohammed Saud Bahwan
+  Role / Position     : Chairman
+  LinkedIn            : https://linkedin.com/in/mohammed-saud-bahwan-9505a613a
+  Opportunity Signals : The company operates across multiple sectors, including automotive, heavy vehicles, construction equipment, turnkey projects, and municipal services.
+
+[ 21]  Alshaya Group
+--------------------------------------------------------------------------------------------
+  Family              : Alshaya
+  Country             : Kuwait
+  Industry            : Retail, Food & Beverage
+  Established         : 1890
+  Revenue Range       : $3B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Mohammed Abdulaziz Alshaya
+  Role / Position     : Executive Chairman
+  LinkedIn            : https://linkedin.com/in/alshaya-executive
+  Opportunity Signals : specialty beauty retailer, Ulta Beauty, announced a franchise partnership to bring Ulta Beauty stores to the Middle East.
+
+[ 22]  Hassan Allam Holding
+--------------------------------------------------------------------------------------------
+  Family              : Allam
+  Country             : Egypt
+  Industry            : Real Estate, Energy
+  Established         : 1936
+  Revenue Range       : $3B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Hassan Allam; Amr Allam
+  Role / Position     : Co-CEOs
+  Opportunity Signals : In March 2024, it established its new regional headquarters in Riyadh.
+                        In November 2024, Hassan Allam Utilities, Masdar, and Infinity Power announced two power purchase agreements with the Egyptian Electricity Transmission Company to construct solar projects with a combined capacity of 1.2 gigawatts.
+
+[ 23]  O Capital Group
+--------------------------------------------------------------------------------------------
+  Family              : Benjelloun
+  Country             : Morocco
+  Industry            : Hospitality, Investment/Finance
+  Established         : 2021
+  Revenue Range       : $500M+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Othman Benjelloun
+  Role / Position     : Chairman
+  Opportunity Signals : In November 2024, the group’s subsidiary, O Tower, project developer and operator for the Mohammed VI Tower, announced the signing of a management agreement with Hilton for the hotel at the Mohammed VI Tower under the Waldorf Astoria brand, set to op
+                        As of April 2025, Benjelloun and his family’s net worth was $1.6 billion.
+
+[ 24]  S.S. Lootah Group
+--------------------------------------------------------------------------------------------
+  Family              : Al-Lootah
+  Country             : U.A.E.
+  Industry            : Automotive, Real Estate
+  Established         : 1956
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Yahya Bin Saeed Al-Lootah
+  Role / Position     : Chairman
+  Opportunity Signals : The current Chairman, Yahya Lootah, along with family Board members Nasser, Rashid, Abdulla and Shamsa Lootah, lead the group’s broad portfolio of companies across key business sectors including education, healthcare, data infrastructure & associated
+                        Lootah Group has also established numerous international partnerships and business ventures with leading international companies active in India, China and Canada as well as project offices in South Africa, Tanzania, and other regional countries.
+
+[ 25]  Zamil Group Holding Company
+--------------------------------------------------------------------------------------------
+  Family              : AlZamil
+  Country             : Saudi Arabia
+  Industry            : Real Estate, Energy
+  Established         : 1920
+  Revenue Range       : $3B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Khalid AlZamil
+  Role / Position     : Chairman
+  Opportunity Signals : Today, the group is a diversified conglomerate with businesses spanning building materials, manufacturing, offshore, petrochemicals, real estate, trade & services, and investments.
+                        In November 2024, the Zamil Group entered into a joint venture agreement with Wolffkran Holding AG to acquire a 50% stake in Wolffkran’s local rental and service business, Wolffkran for Equipment, and establish Saudi Arabia’s first integrated tower c
+
+[ 26]  AW Rostamani Group
+--------------------------------------------------------------------------------------------
+  Family              : Rostamani
+  Country             : U.A.E.
+  Industry            : Automotive, Real Estate
+  Established         : 1954
+  Revenue Range       : $2B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Khalid Al Rostamani
+  Role / Position     : Chairman & Group CEO
+  Opportunity Signals : In 2024, the group expanded its automotive presence by introducing two premium Chinese EV brands to the U.A.E.
+
+[ 27]  Zahid Group
+--------------------------------------------------------------------------------------------
+  Family              : Zahid
+  Country             : Saudi Arabia
+  Industry            : Automotive, Manufacturing
+  Established         : 1943
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Waleed Yousuf Zahid
+  Role / Position     : Chairman
+  Opportunity Signals : Zahid Tractor and CORE signed a contract with Aramco to manufacture three wireline trucks, marking the first production of such trucks in Saudi Arabia.
+                        Arabian Vehicles & Trucks Industry (AVI), a joint venture between Zahid Group and Volvo Truck Corporation, operates a 55,000 sqm facility in KAEC, where it locally assembles Volvo, Renault, and UD trucks, with a capacity of 4,000 trucks annually in a
+
+[ 28]  Al Khayyat Investments (AKI)
+--------------------------------------------------------------------------------------------
+  Family              : Al Khayyat
+  Country             : U.A.E.
+  Industry            : Automotive, Retail
+  Established         : 1982
+  Revenue Range       : $1B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Zaid S. Al Khayyat
+  Role / Position     : Managing Director
+  Opportunity Signals : AKI was founded in 1982 and operates in the GCC, Egypt, Jordan, and Iraq, covering pharmaceutical, medical and laboratory equipment, retail, food and non-food consumer goods, fitness, automotive, environmental services, and contracting.
+                        In 2024, it commenced operations at a 48,000 square-meter fulfillment center in Dubai Industrial City—quadrupling its capacity—and expanded into Saudi Arabia through AKI Retail, Consumer, and Fitness.
+
+[ 29]  Mohamed & Obaid Almulla Group
+--------------------------------------------------------------------------------------------
+  Family              : Almulla
+  Country             : U.A.E.
+  Industry            : Automotive, Real Estate
+  Established         : 1942
+  Revenue Range       : $2B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Buti Obaid AlMulla
+  Role / Position     : Chairman
+  Opportunity Signals : The Mohamed & Obaid Almulla Group was founded in 1942 and has since expanded into hospitality, healthcare, real estate, travel, and tourism.
+                        In September 2024, Ishraq Hospitality, the asset management and hospitality arm of the group, signed a hospitality management agreement with the Rekan Group to manage the Crowne Plaza Hotel in Batumi, Georgia.
+
+[ 30]  Bait Al Batterjee Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Batterjee
+  Country             : Saudi Arabia
+  Industry            : Automotive, Healthcare
+  Established         : 1920
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Sobhi Batterjee
+  Role / Position     : Chairman
+  Opportunity Signals : In 2024, Saudi German Health completed the issuance of a $267 million sukuk.
+                        It also recorded revenues of $769 million and had total assets of $1.4 billion.
+
+[ 31]  HSA Group
+--------------------------------------------------------------------------------------------
+  Family              : Saeed
+  Country             : U.A.E.
+  Industry            : Automotive, Real Estate
+  Established         : 1938
+  Revenue Range       : $5B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Abdul Jabbar Hayel Saeed
+  Role / Position     : Chairman & CEO
+  Opportunity Signals : It signed a Share Sales and Purchase Agreement to acquire Kellanova’s shares in Egyptian Food Company—Bisco-Misr.
+                        In October 2024, the group completed construction of its fifth large-scale edible oil refinery in West Kalimantan, Indonesia, with a production capacity exceeding 600,000 metric tons.
+
+[ 32]  Darwish Holding
+--------------------------------------------------------------------------------------------
+  Family              : Al-Darwish
+  Country             : Qatar
+  Industry            : Real Estate, Retail
+  Established         : 1900
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Bader Al-Darwish
+  Role / Position     : Chairman & Managing Director
+  Opportunity Signals : In 2024, the group expanded its real estate portfolio with new commercial and residential projects across Qatar.
+
+[ 33]  Rawabi Holding
+--------------------------------------------------------------------------------------------
+  Family              : AlTurki
+  Country             : Saudi Arabia
+  Industry            : Energy, Investment/Finance
+  Established         : 1980
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Abdulaziz AlTurki
+  Role / Position     : Chairman
+  Opportunity Signals : Rawabi Holding offers services to diverse sectors such as energy, electricity, petrochemicals, specialized contracting, and offshore services.
+                        In October 2024, Rawabi Holding formed a joint venture with U.K.-based fintech World Wide Generation to streamline and standardize sustainability reporting across its global operations.
+
+[ 34]  Mazrui International
+--------------------------------------------------------------------------------------------
+  Family              : Mazrui
+  Country             : U.A.E.
+  Industry            : Real Estate, Retail
+  Established         : 1972
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Abdullah Mohammed Al Mazrui
+  Role / Position     : Chairman
+  Opportunity Signals : Mazrui International operates across different industries and asset classes, including oil and gas, real estate, trading, financial investments, education, construction and logistics, and retail.
+                        In November 2024, Sigma Enterprises, part of Mazrui Energy Services and Levare International Limited, announced a strategic partnership with ADNOC to deliver advanced solutions for production optimization and contribute to the U.A.E.’s 2030 vision fo
+
+[ 35]  Al Masaood Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Masaood
+  Country             : U.A.E.
+  Industry            : Automotive, Real Estate
+  Established         : 1970
+  Revenue Range       : $2B+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Masaood Ahmed Al Masaood
+  Role / Position     : Chairman
+  Opportunity Signals : In April 2025, the group signed an agreement with ADNOC Distribution to expand the supply of lubricants to Al Masaood's service centers.
+                        In December 2024, the group’s projects, engineering, and services division signed an agreement with Hengst Air Filtration Middle East, the regional branch of Hengst Filtration Germany, to be the exclusive distributor for Hengst’s gas turbine and turb
+
+[ 36]  The Zubair Corporation
+--------------------------------------------------------------------------------------------
+  Family              : Zubair
+  Country             : Oman
+  Industry            : Real Estate, Energy
+  Established         : 1967
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Rashad Mohammad Al Zubair
+  Role / Position     : Chairperson
+  LinkedIn            : https://linkedin.com/in/rashad-zubair-6860ab217
+  Opportunity Signals : The Zubair Corporation’s portfolio companies operate across verticals such as industrial and chemical solutions, mobility and equipment, FMCG, financial investments, education, and real estate development.
+                        In April 2025, the business partnered with TechChef to drive its digital transformation with TechChef‘s AI-powered financial solutions.
+
+[ 37]  Easa Saleh Al Gurg Group
+--------------------------------------------------------------------------------------------
+  Family              : Al Gurg
+  Country             : U.A.E.
+  Industry            : Real Estate, Retail
+  Established         : 1960
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Raja Easa Al Gurg
+  Role / Position     : Chairperson & Managing Director
+  Opportunity Signals : ESAG was established in 1960 by Easa Saleh Al Gurg, and today has businesses in retail & lifestyle, consumer goods, building materials, industrial services, logistics, joint ventures, and real estate.
+                        In 2024, the company launched three new service-oriented companies: landscaping and swimming pool company Curoscape, marketing agency Born28, and logistics company e11.
+
+[ 38]  Obeikan Investment Group (OIG)
+--------------------------------------------------------------------------------------------
+  Family              : Obeikan
+  Country             : Saudi Arabia
+  Industry            : Investment/Finance, Logistics
+  Established         : 1982
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Abdallah Obeikan
+  Role / Position     : CEO
+  LinkedIn            : https://linkedin.com/in/abdallah-obeikan
+  Opportunity Signals : OIG operates across the manufacturing, packaging, printing, supply chain, education, and investment sectors.
+                        The group has operations in 16 countries through 25 companies and 20 factories, with a $1 billion sales volume, $1.6 billion in assets, and 22 billion packs manufactured annually.
+
+[ 39]  Sumou Holding Company
+--------------------------------------------------------------------------------------------
+  Family              : Al-Qahtani
+  Country             : Saudi Arabia
+  Industry            : Real Estate, Investment/Finance
+  Established         : 2008
+  Revenue Range       : $500M+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Ayedh Al-Qahtani
+  Role / Position     : Chairman
+  Opportunity Signals : The Sumou Holding Company offers real estate project management and market analysis, alongside investment, development, and acquisition and disposition services.
+                        In July 2024, Sumou Holding and Kingdom Holding acquired the Al-Inma Jeddah Economic Fund valued at $1.8 billion.
+
+[ 40]  Suhail Bahwan Group
+--------------------------------------------------------------------------------------------
+  Family              : Bahwan
+  Country             : Oman
+  Industry            : Automotive, Healthcare
+  Established         : 1965
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Suhail Bahwan
+  Role / Position     : Chairman
+  Opportunity Signals : Suhail Bahwan, the group’s chairman, had a net worth of $1.9 billion as of April 2025.
+
+[ 41]  GMG
+--------------------------------------------------------------------------------------------
+  Family              : Baker
+  Country             : U.A.E.
+  Industry            : Retail, Technology
+  Established         : 1977
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Mohammad A. Baker
+  Role / Position     : Deputy Chairman & CEO
+  Opportunity Signals : In 2024, it launched Nike Orchard Road in Singapore, invested in an Indian tech hub, and opened JD Sports’ first GCC store in Bahrain with four more across Saudi Arabia, Egypt, the U.A.E., and Qatar.
+                        In February 2025, GMG struck a 10‑year deal with Frasers Group to bring Sports Direct to the region.
+
+[ 42]  BoodaiCorp
+--------------------------------------------------------------------------------------------
+  Family              : Boodai
+  Country             : Kuwait
+  Industry            : Energy, Investment/Finance
+  Established         : 1954
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Jassim Boodai; Marwan Boodai
+  Role / Position     : Chairman; Vice Chairman
+  Opportunity Signals : Founded in the mid-1950s as a trading company supplying equipment to Kuwait’s oil industry, BoodaiCorp today has evolved into a diversified investment corporation across multiple sectors, including trading, media, transportation, aviation, logistics,
+                        Its key investments include Alrai Media Group, Hilal Cement Company, and a 55.62% stake in Jazeera Airways.
+
+[ 43]  Alkhorayef Group Company (AGC)
+--------------------------------------------------------------------------------------------
+  Family              : Alkhorayef
+  Country             : Saudi Arabia
+  Industry            : Automotive, Energy
+  Established         : 1957
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Saad Alkhorayef
+  Role / Position     : Chairman
+  LinkedIn            : https://linkedin.com/in/saad-alkhorayef
+  Opportunity Signals : In 2024, the Alkhorayef Industries Company was awarded a three-year contract with the Ministry of National Guard to provide maintenance services for military vehicles, marking its entry into Defense MRO.
+                        In the same year, AGC expanded its operations to new countries, including Iraq, Uzbekistan, Latin America, and Algeria, which resulted in sales growth of 12% compared to 2023.
+
+[ 44]  Tiger Group
+--------------------------------------------------------------------------------------------
+  Family              : AlZoubi
+  Country             : U.A.E.
+  Industry            : Real Estate, Healthcare
+  Established         : 1976
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Waleed Mohammad AlZoubi
+  Role / Position     : Chairman
+  Opportunity Signals : In 2024, Tiger Properties, a subsidiary of Tiger Group, recorded $1.8 billion in revenues.
+                        As of February 2025, Tiger Properties had delivered 50,000 units worth a total of $8.2 billion, and it was overseeing 20,000 units under construction, valued at up to $2.7 billion.
+
+[ 45]  Assila Investments
+--------------------------------------------------------------------------------------------
+  Family              : Al-Issa
+  Country             : Saudi Arabia
+  Industry            : Hospitality, Investment/Finance
+  Established         : 2010
+  Revenue Range       : $500M+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Abdullah Mohammed Al-Issa
+  Role / Position     : Chairman
+  Opportunity Signals : Originally founded in 1970 as Mohammed Al-Issa and Sons (MASC) Holding Company, Assila Investments rebranded in 2010.
+                        The company is among the largest shareholders on the Saudi Exchange, owning 8% of Riyad Bank, 11.2% of Savola Group, and 22.2% of Taiba Investments as of April 2025.
+
+[ 46]  MAG Group Holding
+--------------------------------------------------------------------------------------------
+  Family              : Gaddah
+  Country             : U.A.E.
+  Industry            : Real Estate, Investment/Finance
+  Established         : 1978
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Moafaq Ahmad Al Gaddah
+  Role / Position     : Founder & Chairman
+  Opportunity Signals : The group operates across many sectors, including real estate, contracting and engineering, freight, logistics, and industrial trading.
+                        In 2024, its real estate portfolio reached $12 billion, with numerous developing projects under subsidiaries like MAG Lifestyle Development and Keturah.
+
+[ 47]  Rajhi Invest
+--------------------------------------------------------------------------------------------
+  Family              : Al-Rajhi
+  Country             : Saudi Arabia
+  Industry            : Real Estate, Healthcare
+  Established         : 1960
+  Revenue Range       : $500M+
+  Tier                : Tier 1
+  Governance          : High
+  Key Decision Maker  : Yazeed Al-Rajhi
+  Role / Position     : Chairman
+  Opportunity Signals : In 2024, the company completed the acquisition of Hadeed through Rajhi Steel, alongside Saudi Arabia’s PIF, and the acquisition of Naba El Maa.
+                        It also ventured into large-scale hospitality projects, including MENA Gate, a hotel with over 1,100 rooms in Makkah.
+
+[ 48]  Hamad Al Sagri Holding Company (HHC)
+--------------------------------------------------------------------------------------------
+  Family              : Al Sagri
+  Country             : Saudi Arabia
+  Industry            : Diversified Conglomerate
+  Established         : 2003
+  Revenue Range       : $500M+
+  Tier                : Tier 2
+  Governance          : Medium
+  Key Decision Maker  : Hamad Ali Al Sagri
+  Role / Position     : Chairman
+  Opportunity Signals : In 2024, Leejam Sports recorded $400.4 million in revenues and operates 223 centers across Saudi Arabia and the U.A.E.
+                        Al Sagri’s net worth was $1.1 billion as of March 2025.
+
+[ 49]  Manaseer Group
+--------------------------------------------------------------------------------------------
+  Family              : Manaseer
+  Country             : Jordan
+  Industry            : Real Estate, Food & Beverage
+  Established         : 1999
+  Revenue Range       : $500M+
+  Tier                : Tier 2
+  Governance          : Medium
+  Key Decision Maker  : Ziyad Al Manaseer
+  Role / Position     : Chairman and Group CEO
+  Opportunity Signals : Founded in 1999 in Jordan, the Manaseer Group today has 21 subsidiaries, a $3.5 billion investment portfolio, and has generated $2 billion in revenue since 1999.
+                        The group operates through eight key clusters: building materials, chemical construction, oil and gas, natural solutions, transport, mining, investments, and vocational education, with a presence across the Middle East, Asia, Africa, Europe, and the 
+
+[ 50]  Al Nahdi Family Office
+--------------------------------------------------------------------------------------------
+  Family              : Al Nahdi
+  Country             : Saudi Arabia
+  Industry            : Healthcare, Energy
+  Established         : 2019
+  Revenue Range       : $500M+
+  Tier                : Tier 3
+  Governance          : Low
+  Key Decision Maker  : Abdullah Amer Al Nahdi
+  Role / Position     : Founder & Chairman
+  Opportunity Signals : The office manages the family's investment portfolio and subsidiaries, including the Nahdi Medical Company, which is listed on the Saudi Exchange and recorded $2.5 billion in revenues in 2024.
+                        Al Nahdi's other investments span multiple sectors, including transportation, education, catering, and other diversified investment assets.
+
+[01]  Ajlan & Bros Holding
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Ajlan
+  Industry           : Diversified Conglomerate
+  Revenue            : $1B+
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Faisal Ajlan
+  Role / Position    : Group CEO
+                     : Gavin Walford-Wright
+                     : Asst. Deputy Group CEO / CHRO
+  Opportunity Signals: Equity investment fund with Zhonglian Investment (China) targeting AI, new energy & semiconductors.
+                       DHL eCommerce minority stake in AJEX logistics (Aug 2025).; DHL eCommerce into AJEX (Aug 2025);
+                       China tech fund with Zhonglian (Sep 2025).; 25+ countries globally; deepening China tech ecosystem;
+                       Gulf logistics network expansion via AJEX.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [02]  Al Muhaidib Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al Muhaidib
+  Industry           : Diversified
+  Revenue            : $1B+
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Sulaiman Al Muhaidib
+  Role / Position    : Group Chairman
+  Opportunity Signals: Long-term investments across construction materials, real estate development in Riyadh/Makkah, and
+                       financial services. Tier 1 balance sheet.; Global construction material suppliers; food & consumer
+                       brand distribution agreements.; Saudi-focused with selective GCC exposure; real estate pipeline
+                       tracks Riyadh 2030 urban expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [03]  Abdul Latif Jameel
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Jameel
+  Industry           : Automotive & Diversified
+  Revenue            : $1B+
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Mohammed A.L. Jameel
+  Role / Position    : Chairman
+                     : Tamin Jameel
+                     : Deputy President & Vice Chairman
+  Opportunity Signals: Renewable energy platform FRV investing billions in solar globally. Toyota distribution expansion in
+                       EV models.; FRV solar partnerships worldwide; Toyota EV distribution partnerships.; 30+ countries
+                       globally via FRV renewable energy; automotive expansion into EV market.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [04]  Olayan Financing Co.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Olayan
+  Industry           : Investment Holding
+  Revenue            : $1B+
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Hutham Olayan
+  Role / Position    : Deputy Chairwoman
+  Opportunity Signals: US real estate holdings including 550 Madison Ave NYC. Long-term FMCG brand distribution
+                       investments.; Exclusive distribution partnerships with Kellogg's, P&G and other global FMCG brands.;
+                       US, UK and European real estate; Gulf consumer distribution network expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [05]  Al-Futtaim Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Futtaim
+  Industry           : Retail, Automotive & Real Estate
+  Revenue            : $1B+
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Omar Al Futtaim
+  Role / Position    : Group CEO / Vice Chairman
+  Opportunity Signals: Ongoing Festival City integrated real estate developments in Cairo, Dubai and planned KSA
+                       locations.; IKEA franchise expansion; Marks & Spencer stores expansion across MENA.; Active MENA
+                       expansion including Saudi Arabia Festival City projects.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [06]  Algihaz Holding
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Gihaz
+  Industry           : Energy & Infrastructure
+  Revenue            : $1B–$10B
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Dr. Ghazi Osman
+  Role / Position    : Deputy CEO
+  Opportunity Signals: Acquired Lamprell (£38.8M, 2022). Portfolio >SAR 15B across energy, construction and industrial
+                       sectors.; 210 MW Solar + 827 MWh BESS project in Syria (Feb 2026); JV with Blofeld Investment
+                       Management.; Syria renewable energy; international energy projects through Lamprell across MENA.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [07]  Al-Rajhi Holding Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Rajhi
+  Industry           : Real Estate, Agriculture & Finance
+  Revenue            : $1B+
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Sulaiman Al-Rajhi
+  Role / Position    : Founder / Chairman
+  Opportunity Signals: Significant real estate pipeline in Riyadh and Makkah. Al-Watania poultry sector expansion.;
+                       Co-development agreements with government entities for large-scale Riyadh real estate.; Primarily
+                       domestic-focused; selective international real estate.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [08]  Tamer Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Tamer
+  Industry           : Healthcare & FMCG
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : Khalid Said Tamer
+  Role / Position    : Chairman / Group CEO
+                     : Ayman Barqawi
+                     : CEO – Tamer Logistics
+  Opportunity Signals: Ongoing investment in healthcare distribution infrastructure and beauty/FMCG manufacturing.;
+                       Partnership with Geberit for first exclusive sanitary showroom in Gulf (Sep 2025).; Expanding
+                       exclusive brand relationships across GCC and broader Middle East.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [09]  Rawabi Holding Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Harthy
+  Industry           : Energy Services & Engineering
+  Revenue            : $1B+
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Walid Al-Harthy
+  Role / Position    : Group CEO
+  Opportunity Signals: Long-term service contracts with Saudi Aramco and national oil companies worth hundreds of millions
+                       annually.; Ongoing JVs with international energy service companies for technology transfer.;
+                       Exploring MENA opportunities beyond KSA, particularly UAE and Iraq.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [10]  Zamil Industrial (SENAAT)
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Zamil
+  Industry           : Industrial Manufacturing
+  Revenue            : $500M–$1B
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Eng. Osama Al-Zamil
+  Role / Position    : Group CEO
+  Opportunity Signals: Arab Energy Fund consortium for Metito Utilities acquisition (water infrastructure, Jan 2025).; Arab
+                       Energy Fund – Metito Utilities (Jan 2025); international manufacturing JVs.; Exports to GCC, Africa
+                       and Asia; water infrastructure investments in MENA.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [11]  Zahid Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Zahid
+  Industry           : Automotive & Heavy Equipment
+  Revenue            : $500M–$1B
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : Ali Zahid
+  Role / Position    : Group CEO
+  Opportunity Signals: Fleet expansion to serve NEOM, Red Sea and Diriyah mega-project construction sites.; Caterpillar
+                       global dealer partnership; Volkswagen Group KSA dealer agreement.; Selective GCC expansion for heavy
+                       equipment rental.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [12]  Al Fozan Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Fozan
+  Industry           : Steel, Real Estate & Retail
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : Abdulaziz Al Fozan
+  Role / Position    : Chairman / CEO
+  Opportunity Signals: Expansion of Riyadh steel distribution network; new building materials hubs.; Steel mill supplier
+                       partnerships; Panda retail supply chain agreements.; Consolidating national coverage; Saudi-first
+                       strategy aligned with construction demand.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [13]  MBC Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Ibrahim
+  Industry           : Media & Entertainment
+  Revenue            : $500M–$1B
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Sam Barnett
+  Role / Position    : Group CEO
+  Opportunity Signals: Shahid streaming platform investment; major content production deals.; Global OTT content licensing
+                       agreements; regional media co-productions.; Pan-Arab and international streaming expansion via
+                       Shahid.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [14]  Al Rushaid Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Rushaid
+  Industry           : Oil & Gas Services & Industrial
+  Revenue            : $500M–$1B
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Long-term oil & gas service contracts; industrial manufacturing investment.; JVs with international
+                       technology companies for localization of oil field equipment.; GCC energy services expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [15]  Binzagr Company
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Binzagr
+  Industry           : FMCG Distribution & Retail
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: FMCG distribution infrastructure modernization; e-commerce logistics investment.; Nestlé, Unilever
+                       and other global FMCG distribution agreements.; Strengthening digital distribution channels; Gulf
+                       market expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [16]  Al Subeaei Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Subeaei
+  Industry           : Diversified Holdings
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Automotive distribution fleet upgrade; real estate portfolio expansion.; Automotive brand
+                       partnerships.; Riyadh real estate expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [17]  Xenel Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Jameel (Xenel)
+  Industry           : Industry, Real Estate & Energy
+  Revenue            : $500M–$1B
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Industrial JV expansion in KSA.; International industrial manufacturing JVs.; Saudi industrial base
+                       expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [18]  Al Babtain Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Babtain
+  Industry           : Automotive & Trading
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: EV model expansion with Nissan/Kia.; Nissan EV distribution agreement.; Saudi & Kuwait automotive
+                       expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [19]  Salehiya Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Saleh
+  Industry           : Healthcare Distribution & Pharma
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Healthcare distribution network expansion.; International pharma brand agency agreements.; KSA
+                       healthcare network expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [20]  Al-Dabbagh Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Dabbagh
+  Industry           : Diversified (FMCG, Real Estate, Hospitality)
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Arwa water brand investment; hospitality expansion.; Agribusiness and water JVs.; GCC hospitality
+                       and FMCG expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [21]  Al Suwaiket Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Suwaiket
+  Industry           : Oil Services, Trading & Real Estate
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Eastern Province oil services contracts.; Saudi Aramco service JVs.; Eastern Province energy
+                       services.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [22]  Khalid Ali Alturki & Sons
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Turki
+  Industry           : Construction & Engineering
+  Revenue            : $500M–$1B
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Khaled Al-Turki
+  Role / Position    : CEO / Managing Director
+  Opportunity Signals: Vision 2030 mega-project contracts (NEOM, Red Sea).; JVs with global engineering firms.; Saudi-wide
+                       construction expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [23]  Al Gosaibi Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Gosaibi
+  Industry           : Diversified Trading & Services
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Hospitality asset renovation; post-restructuring business rebuild.; Holiday Inn hotel management
+                       agreements.; Eastern Province and Bahrain hospitality.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [24]  Al Naghi Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Naghi
+  Industry           : Automotive & Diversified
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: BMW EV model introduction; Jeddah real estate.; BMW EV distribution agreement.; Western Region
+                       luxury auto expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [25]  Arabian Trading Supplies (ATS)
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Hamdan
+  Industry           : FMCG & Food Distribution
+  Revenue            : $75M–$200M
+  Tier               : Tier 3
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: N/A
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [26]  Inma Telecom
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Harbi
+  Industry           : Telecom & Technology
+  Revenue            : $75M–$200M
+  Tier               : Tier 3
+  Governance         : Low
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Government IT contracts; digital transformation services.; Telecom technology partnerships.; Saudi
+                       digital infrastructure expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [27]  Gulf General Investments (GGI)
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Quraishi
+  Industry           : Investment Holding
+  Revenue            : $75M–$200M
+  Tier               : Tier 3
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: N/A
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [28]  Alghamdi Holding
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Ghamdi
+  Industry           : Diversified
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Construction contracting expansion.; Local contractor partnerships.; Riyadh construction projects.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [29]  Al Riyadh Holding
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Haroon
+  Industry           : Real Estate & Investment
+  Revenue            : $200M–$500M
+  Tier               : Tier 3
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Riyadh residential development pipeline.; Real estate development JVs.; Riyadh urban expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [30]  Al Harithy Company for Exhibitions
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Harithy
+  Industry           : Events, Real Estate & Retail
+  Revenue            : $75M–$200M
+  Tier               : Tier 3
+  Governance         : Low
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: N/A
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [31]  Almutlaq Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Mutlaq
+  Industry           : Furniture & Real Estate
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Furniture retail expansion; e-commerce launch.; International furniture brand JVs.; KSA furniture
+                       retail network.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [32]  Saudi Bugshan Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Bugshan
+  Industry           : Automotive, Real Estate & Industrial
+  Revenue            : $500M–$1B
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Hyundai EV transition; real estate development.; Hyundai EV partnership.; KSA automotive and real
+                       estate.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [33]  Al Hamad Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Hamad
+  Industry           : Construction & Real Estate
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Infrastructure contracting pipeline.; Government contractor partnerships.; Nationwide construction
+                       projects.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [34]  Dr. Sulaiman Al-Habib Medical Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Habib
+  Industry           : Healthcare
+  Revenue            : $500M–$1B
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: N/A
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [35]  Al-Awwad Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Awwad
+  Industry           : Real Estate & Contracting
+  Revenue            : $75M–$200M
+  Tier               : Tier 3
+  Governance         : Low
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Mid-market real estate development.; Local contractor partnerships.; Riyadh residential market.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [36]  Bin Laden Group (SBG)
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Bin Laden
+  Industry           : Construction & Engineering
+  Revenue            : $1B+
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: N/A
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [37]  Abdullatif Alissa Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Issa
+  Industry           : Automotive
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: GM EV model expansion; aftersales services growth.; GM EV distribution agreement.; Nationwide auto
+                       network expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [38]  Al Jedaie Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Jedaie
+  Industry           : Food & Agri Processing
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Poultry production capacity expansion.; Saudi food processor partnerships.; Nationwide food
+                       distribution.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [39]  Al Qahtani Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Qahtani
+  Industry           : Oil Services & Industrial
+  Revenue            : $500M–$1B
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Pipe manufacturing expansion for Aramco.; Aramco supply chain agreements.; Eastern Province
+                       industrial expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [40]  Albawani Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Bawani
+  Industry           : Construction & Real Estate
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Vision 2030 project contracts.; International construction JVs.; Nationwide construction expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [41]  Al Khodari Sons Company
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Khodari
+  Industry           : Construction & Infrastructure
+  Revenue            : $500M–$1B
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: N/A
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [42]  Tabuk Agricultural Development Co.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Rajhi
+  Industry           : Agriculture & Food
+  Revenue            : $75M–$200M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: N/A
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [43]  Saudi Marble & Granite
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Amri
+  Industry           : Construction Materials
+  Revenue            : $75M–$200M
+  Tier               : Tier 3
+  Governance         : Low
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Premium stone supply for luxury projects.; Real estate developer supply agreements.; Luxury real
+                       estate stone supply.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [44]  Al Fanar Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Fanar
+  Industry           : Electrical Manufacturing & Energy
+  Revenue            : $500M–$1B
+  Tier               : Tier 2
+  Governance         : High
+  Decision Maker     : Fawaz Al-Fawaz
+  Role / Position    : Group CEO
+  Opportunity Signals: Energy infrastructure investment; exports expansion.; International electrical JVs.; GCC and MENA
+                       exports.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [45]  Mohammed Al Amoudi Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Amoudi
+  Industry           : Energy, Real Estate & Mining
+  Revenue            : $10B+
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Sheikh Mohammed Al-Amoudi
+  Role / Position    : Chairman
+  Opportunity Signals: PREEM green transition investment; Ethiopia agri expansion.; Swedish government PREEM energy
+                       transition; Ethiopia agri JVs.; Sweden, Ethiopia, Saudi expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [46]  Al Habtoor Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Habtoor
+  Industry           : Hospitality, Real Estate & Automotive
+  Revenue            : $1B+
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Khalaf Ahmad Al Habtoor
+  Role / Position    : Founder / Chairman
+  Opportunity Signals: Luxury hotel expansion; Saudi real estate projects.; Hilton/Marriott management agreements;
+                       Mitsubishi EV distribution.; MENA hotel and real estate expansion.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [47]  Al Rabiah & Partners
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Rabiah
+  Industry           : Medical Services & Healthcare
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Medical distribution expansion.; International pharma agency agreements.; KSA healthcare network.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [48]  Bawanah Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Zahrani
+  Industry           : Technology & IT Services
+  Revenue            : $75M–$200M
+  Tier               : Tier 3
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Government IT contract expansion.; Technology vendor partnerships.; Saudi government IT market.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [49]  United Arab Company (UACO)
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Babtain
+  Industry           : Industrial & Trading
+  Revenue            : $75M–$200M
+  Tier               : Tier 3
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: Industrial supply chain investment.; Heavy equipment manufacturer partnerships.; KSA industrial
+                       supply network.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [50]  Al Osais Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Osais
+  Industry           : Construction & Contracting
+  Revenue            : $200M–$500M
+  Tier               : Tier 2
+  Governance         : Medium
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: N/A
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [51]  Makkah Construction & Development
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Jomaih
+  Industry           : Real Estate & Development
+  Revenue            : $500M–$1B
+  Tier               : Tier 2
+  Governance         : High
+  Decision Maker     : N/A
+  Role / Position    : N/A
+  Opportunity Signals: N/A
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  [52]  Al Jomaih Group
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family             : Al-Jomaih
+  Industry           : Energy, Real Estate & Beverages
+  Revenue            : $500M–$1B
+  Tier               : Tier 1
+  Governance         : High
+  Decision Maker     : Abdulaziz Al Jomaih
+  Role / Position    : Chairman
+  Opportunity Signals: Pepsi bottling expansion; petroleum distribution growth; real estate pipeline.; PepsiCo franchise
+                       renewal; petroleum distribution agreements.; Saudi FMCG and energy distribution expansion.
+
+[--- PREVIOUS 141 COMPANIES DATA ---]
+Company Name 
+Founding Family 
+Industry 
+Revenue Range (Est.) 
+Tier 
+Governance Maturity 
+Opportunity Signals 
+Key Decision Makers 
+Al Muhaidib Group 
+Al Muhaidib 
+Diversified 
+$1B+ 
+1 
+High 
+PIF 30% stake in Masdar; M&A 13 
+Sulaiman Al Muhaidib 
+Abdul Latif Jameel 
+Jameel 
+Automotive 
+$1B+ 
+1 
+High 
+EV investment; Global diversification 14 
+Mohammed A.L. Jameel 
+Olayan Financing Co. 
+Olayan 
+Investment 
+$1B+ 
+1 
+High 
+Multi-gen institutionalization 15 
+Hutham Olayan 
+Al-Futtaim Group 
+Al-Futtaim 
+Retail/Auto 
+$1B+ 
+1 
+High 
+Health sector entry; Regional expansion 16 
+Omar Al Futtaim 
+Majid Al Futtaim 
+Al Futtaim 
+Retail/Malls 
+$1B+ 
+1 
+High 
+Digital pivot; Global expansion 16 
+Ahmed Galal Ismail 
+SEDCO Holding 
+Bin Mahfouz 
+Investment 
+$1B+ 
+1 
+High 
+2025 Succession Award winner 17 
+Rasha Al Darwish 
+Al Rajhi Holding 
+Al Rajhi 
+Industrial 
+$1B+ 
+1 
+Medium 
+Transitioning legacy assets 17 
+Dr. Ibrahim Al Rajhi 
+Zamil Group 
+Al Zamil 
+Industrial 
+$1B+ 
+1 
+High 
+IMD Global Family Business Award 9 
+Adib Al Zamil 
+Juffali 
+Juffali 
+Industrial 
+$1B+ 
+1 
+Medium 
+Supply chain modernization 15 
+Khaled Juffali 
+Ajlan & Bros Holding 
+Al Ajlan 
+Diversified 
+$1B+ 
+1 
+Medium 
+Gaming/Tech; IPO preparation 15 
+Ajlan Al Ajlan 
+AlNahla Group 
+Sharbatly 
+Real Estate 
+$1B+ 
+1 
+Medium 
+Restructuring for NextGen 15 
+Abdulrahman Sharbatly 
+Naghi & Sons Group 
+Naghi 
+Auto/FMCG 
+$1B+ 
+1 
+Medium 
+Retail automation 15 
+Yousuf Naghi 
+Zahid Group 
+Zahid 
+Construction 
+$1B+ 
+1 
+High 
+Renewables investment 15 
+Talal Zahid 
+Al Faisaliah Group 
+Al-Khorayef 
+Pharma/Divers 
+$1B+ 
+1 
+High 
+EV partnership; Health tech 14 
+Mohammed Al-Khorayef 
+Rashed Al Rashed 
+Al Rashed 
+Construction 
+$1B+ 
+1 
+Medium 
+Gigaproject supplier 14 
+Abdulaziz Al Rashed 
+Nesma & Partners 
+Al-Turki 
+Construction 
+$1B+ 
+1 
+High 
+Acquisition of Kent; Expansion 10 
+Abdulaziz Al-Turki 
+Rawabi Holding 
+Al-Turki 
+Energy 
+$1B+ 
+1 
+High 
+Sukuk issuance; Renewables 15 
+Abdulaziz Al-Turki 
+Al Othaim Holding 
+Al Othaim 
+Retail 
+$1B+ 
+1 
+Medium 
+Divestment; Retail tech 15 
+Abdullah Al Othaim 
+Alkhorayef Group 
+Al Khorayef 
+Water/Energy 
+$1B+ 
+1 
+Medium 
+Global expansion 15 
+Saad Al Khorayef 
+Al Shaya Group 
+Al Shaya 
+Retail 
+$1B+ 
+1 
+High 
+E-commerce pivot; Franchising 15 
+Mohammed Al Shaya 
+Alghanim Industries 
+Alghanim 
+Diversified 
+$1B+ 
+1 
+High 
+EV rollout; Logistics 15 
+Kutayba Alghanim 
+Power International 
+Al Khayyat 
+Diversified 
+$1B+ 
+1 
+Medium 
+Int'l M&A; Healthcare 18 
+Moutaz Al Khayyat 
+Al Faisal Holding 
+Al Thani 
+Hospitality 
+$1B+ 
+1 
+Medium 
+Global hotel acquisitions 18 
+Faisal Bin Qassim 
+Alfardan Group 
+Alfardan 
+Luxury/Divers 
+$1B+ 
+1 
+High 
+Sustainability strategy (Athar) 18 
+Hussein Alfardan 
+Hassan Allam 
+Allam 
+Construction 
+$1B+ 
+1 
+High 
+Solar energy; KSA expansion 15 
+Kamal Hassan Allam 
+Zamil Industrial 
+Al Zamil 
+Manufacturing 
+$500M-$1B 
+2 
+High 
+Supply chain digitalization 15 
+Abdulla Al Zamil 
+Bait Al Batterjee 
+Batterjee 
+Healthcare 
+$500M-$1B 
+2 
+Medium 
+Medical ed-tech expansion 15 
+Sobhi Batterjee 
+Al Masaood Group 
+Al Masaood 
+Industrial 
+$500M-$1B 
+2 
+Medium 
+Energy transition focus 16 
+Masaood Al Masaood 
+Obeikan Invest. 
+Obeikan 
+Packaging 
+$500M-$1B 
+2 
+Medium 
+Industry 4.0 adoption 19 
+Abdallah Obeikan 
+Almajdouie Group 
+Al Majdouie 
+Logistics 
+$500M-$1B 
+2 
+High 
+Port logistics automation 19 
+Abdullah Al Majdouie 
+Tamer Group 
+Tamer 
+Pharma/Health 
+$500M-$1B 
+2 
+Medium 
+E-commerce healthcare pivot 15 
+Ayman Tamer 
+Alturki Holding 
+Al Turki 
+Diversified 
+$500M-$1B 
+2 
+High 
+Sustainability tech 15 
+Rami Al Turki 
+Alesayi Holding 
+Alesayi 
+Trading 
+$500M-$1B 
+2 
+Medium 
+NextGen transition signals 15 
+Omar Alesayi 
+Sumou Holding 
+Al-Qahtani 
+Real Estate 
+$500M-$1B 
+2 
+Medium 
+IPO of subsidiaries 15 
+Ayedh Al-Qahtani 
+Rajhi Invest 
+Al Rajhi 
+Investment 
+$500M-$1B 
+2 
+Medium 
+Restructuring 15 
+Khalid Al Rajhi 
+Al Jomaih Holding 
+Al Jomaih 
+Auto/Indus 
+$500M-$1B 
+2 
+Medium 
+Energy services focus 15 
+Hamad Al Jomaih 
+Al Othman Holding 
+Al Othman 
+Dairy/Indust 
+$500M-$1B 
+2 
+Medium 
+Nada Dairy expansion 15 
+Mohammed Al Othman 
+Masdar Building 
+Al Muhaidib 
+Industrial 
+$500M-$1B 
+2 
+Medium 
+PIF investment; Professionalizing 13 
+Musaab Al Muhaidib 
+El Seif Engineering 
+Al Seif 
+Construction 
+$500M-$1B 
+2 
+Medium 
+Governance needs for gigaprojects 10 
+Khaled Al Seif 
+AlBawani 
+Al Shawaf 
+Construction 
+$500M-$1B 
+2 
+Medium 
+Institutionalizing HR 10 
+Fakher Al Shawaf 
+Al-Ayuni Investment 
+Al-Ayuni 
+Infrastructure 
+$500M-$1B 
+2 
+Low 
+Major rail/road contracts 10 
+Fahad Al-Ayuni 
+Zahran Holding 
+Zahran 
+Services 
+$500M-$1B 
+2 
+Medium 
+Facilities for gigaprojects 11 
+Ghassan Zahran 
+Safari Group 
+Al-Sagri 
+Diversified 
+$500M-$1B 
+2 
+Low 
+Healthcare diversification 14 
+Saleh Al-Sagri 
+Aljabr Holding 
+Aljabr 
+Auto/Finance 
+$500M-$1B 
+2 
+Medium 
+Succession planning 14 
+Mishari Aljabr 
+Basamh Group 
+Basamh 
+FMCG 
+$500M-$1B 
+2 
+Medium 
+NextGen leadership award 17 
+Osama Basamh 
+Al-Dabbagh Group 
+Al Dabbagh 
+Food/Divers 
+$500M-$1B 
+2 
+High 
+ESG reporting; Global expansion 14 
+Amr Al Dabbagh 
+MASIC 
+Al Subeaei 
+Investment 
+$500M-$1B 
+2 
+High 
+Shariah asset management 15 
+Ihsan Bafakih 
+Al-Qahtani Holding 
+Al Qahtani 
+Energy 
+$500M-$1B 
+2 
+Medium 
+Energy infra expansion 15 
+Abdulaziz Al Qahtani 
+Al Rushaid Group 
+Al Rushaid 
+Oil & Gas 
+$500M-$1B 
+2 
+Medium 
+Global tech partnerships 15 
+Rasheed Al Rushaid 
+Bin Omairah Holding 
+Bin Omairah 
+Infrastructure 
+$500M-$1B 
+2 
+Low 
+Need for family office 11 
+Fahad Bin Omairah 
+Al-Kholi Group 
+Al Kholi 
+Diversified 
+$50M-$500M 
+3 
+Low 
+Needs tax structuring 20 
+Hamza Al Kholi 
+Sherbiny Holdings 
+Sherbiny 
+Indus Serv. 
+$50M-$500M 
+3 
+Medium 
+2nd gen transition; Digital pivot 20 
+Majed Sherbiny 
+Aal Taher Group 
+Aal Taher 
+Construction 
+$50M-$500M 
+3 
+Low 
+High succession risk 20 
+Tarek Aal Taher 
+Aggad Investment 
+Aggad 
+Investment 
+$50M-$500M 
+3 
+Medium 
+Needs family constitution 20 
+Talal Aggad 
+Al Massaq Support 
+Al Massaq 
+Services 
+$50M-$500M 
+3 
+Low 
+Informal governance 20 
+Founder Managed 
+Apparel Trading Co. 
+Family 
+Retail 
+$50M-$500M 
+3 
+Low 
+Digital supply chain needs 20 
+Family Managed 
+Medical Supplies 
+Family 
+Healthcare 
+$50M-$500M 
+3 
+Low 
+Needs corporate structuring 20 
+Family Managed 
+Wallan Group 
+Wallan 
+Auto/Avia 
+$1B+ 
+1 
+Medium 
+Aviation expansion 20 
+Fahad Wallan 
+Ali Zaid Al-Quraishi 
+Al Quraishi 
+Diversified 
+$50M-$500M 
+3 
+Medium 
+Portfolio management 20 
+Faisal Al-Quraishi 
+Dar Massader 
+Family 
+Industrial 
+$50M-$500M 
+3 
+Low 
+Informal boards 20 
+Family Managed 
+KFB Group 
+Al Bassam 
+Diversified 
+$50M-$500M 
+3 
+Medium 
+Need for family council 20 
+Khalid Al Bassam 
+Al-Hokair Group 
+Al-Hokair 
+Tourism 
+$500M-$1B 
+2 
+High 
+Post-pandemic restructure 14 
+Fawaz Al Hokair 
+Arabian Shield Ins. 
+Al Rajhi 
+Insurance 
+$50M-$500M 
+3 
+High 
+ESG framework needs 21 
+Family Controlled 
+Arasco 
+Al Falih 
+Food/Agri 
+$500M-$1B 
+2 
+Medium 
+Supply chain transformation 21 
+Nasser Al Falih 
+CGS Group 
+Family 
+Manufacturing 
+$50M-$500M 
+3 
+Low 
+Industry 4.0 target 22 
+Family Managed 
+IHCC 
+Al-Sudairy 
+Construction 
+$500M-$1B 
+2 
+Medium 
+Healthcare megaprojects 10 
+Sultan Batterjee 
+Alkifah Contracting 
+Al Afaleq 
+Construction 
+$500M-$1B 
+2 
+Medium 
+Housing projects focus 10 
+Osama Al Afaleq 
+Mofarreh Al-Harbi 
+Al-Harbi 
+Construction 
+$500M-$1B 
+2 
+Low 
+Needs formal board 10 
+Mofarreh Al Harbi 
+Al Latifia Trading 
+Al-Swailem 
+Construction 
+$500M-$1B 
+2 
+Low 
+Real estate development 11 
+Family Managed 
+Shibh Al Jazira 
+Al-Nafjan 
+Construction 
+$500M-$1B 
+2 
+Low 
+Corporate structuring 11 
+Family Managed 
+Inara 
+Al-Gihaz 
+Energy/Indus 
+$50M-$500M 
+3 
+Low 
+Smart lighting; Digital target 11 
+Family Managed 
+Al-Toukhi Company 
+Al-Toukhi 
+Industrial 
+$50M-$500M 
+3 
+Low 
+Needs tax advisory 11 
+Family Managed 
+Binjarallah Group 
+Binjarallah 
+Construction 
+$500M-$1B 
+2 
+Low 
+Transition risk; Energy infra 11 
+Family Managed 
+Jamal Jaroudi Group 
+Jaroudi 
+Tech/Secur 
+$50M-$500M 
+3 
+Medium 
+IoT and AI integration 11 
+Jamal Jaroudi 
+Saudi Technical 
+Family 
+Engineering 
+$50M-$500M 
+3 
+Low 
+Informal family council 11 
+Family Managed 
+Mobco Group 
+Al-Otaibi 
+Diversified 
+$50M-$500M 
+3 
+Low 
+Needs family office 11 
+Family Managed 
+Al Gihaz Holdings 
+Al-Anzi 
+Energy 
+$500M-$1B 
+2 
+Medium 
+Renewables pivot 3 
+Family Managed 
+Al-Fahhad Company 
+Al-Fahhad 
+Services 
+$50M-$500M 
+3 
+Low 
+Municipal services 11 
+Family Managed 
+Al-Mashrik Cont. 
+Al-Naim 
+Construction 
+$500M-$1B 
+2 
+Low 
+NEOM contracts; Rapid growth 11 
+Family Managed 
+Al Arrab Contracting 
+Al-Arrab 
+Construction 
+$500M-$1B 
+2 
+Medium 
+Needs restructuring 11 
+Family Managed 
+BEC Arabia 
+Al-Otaibi 
+Construction 
+$500M-$1B 
+2 
+Medium 
+Talent retention strategies 10 
+Bukhatir Family 
+Almabani 
+Nehme 
+Construction 
+$500M-$1B 
+2 
+High 
+BIM adoption; Gigaprojects 10 
+Joseph Nehme 
+Marco (Contracting) 
+Al Rashid 
+Construction 
+$500M-$1B 
+2 
+Medium 
+Cultural projects focus 10 
+Mohammed Al Rashid 
+Red Sea Internat. 
+Al Dabbagh 
+Industrial 
+$500M-$1B 
+2 
+High 
+Modular housing; Public-fam 10 
+Amr Al Dabbagh 
+UNIMAC 
+Al-Nafjan 
+Infrastruct. 
+$50M-$500M 
+3 
+Low 
+Road construction focus 10 
+Family Managed 
+ABV Rock Group 
+Family 
+Construction 
+$500M-$1B 
+2 
+Medium 
+Strategic infrastructure 10 
+Family Managed 
+Shahm Contracting 
+Al-Qahtani 
+Real Estate 
+$500M-$1B 
+2 
+Medium 
+Institutionalizing finance 10 
+Family Managed 
+Bin Zafrah 
+Bin Zafrah 
+Construction 
+$50M-$500M 
+3 
+Low 
+Needs succession plan 10 
+Family Managed 
+CCE (Contracting) 
+Al-Harbi 
+Construction 
+$500M-$1B 
+2 
+Medium 
+Industrial; Tax structuring 10 
+Family Managed 
+Alfanar Projects 
+Al-Fozan 
+Energy/Indus 
+$1B+ 
+1 
+High 
+Smart grid tech 10 
+Sabah Al-Mutlaq 
+SAPAC 
+Al-Subeaei 
+Infrastruct. 
+$500M-$1B 
+2 
+Medium 
+IPO preparation signals 10 
+Family Managed 
+Abdulali Al-Ajmi Co. 
+Al-Ajmi 
+Infrastruct. 
+$500M-$1B 
+2 
+Low 
+Long-haul logistics 10 
+Family Managed 
+Chalhoub Group 
+Chalhoub 
+Luxury Retail 
+$1B+ 
+1 
+High 
+Tech-retail; NextGen roles 16 
+Patrick Chalhoub 
+DAMAC Group 
+Sajwani 
+Real Estate 
+$1B+ 
+1 
+High 
+US Data Center investments 16 
+Hussain Sajwani 
+Binghatti Holding 
+Binghatti 
+Real Estate 
+$500M-$1B 
+2 
+Medium 
+Branded real estate 16 
+Muhammad Binghatti 
+Lootah Group 
+Lootah 
+Diversified 
+$1B+ 
+1 
+Medium 
+Logistics and Education 16 
+Yahya Lootah 
+AW Rostamani 
+Rostamani 
+Auto/Divers 
+$1B+ 
+1 
+High 
+EV rollout; Professionalization15 
+Khalid Al Rostamani 
+Al Khayyat Inv. 
+Al Khayyat 
+Diversified 
+$500M-$1B 
+2 
+Medium 
+Needs family office 16 
+Family Managed 
+Mazrui International 
+Mazrui 
+Energy/Indus 
+$500M-$1B 
+2 
+Medium 
+Logistics modernization 16 
+Family Managed 
+Easa Saleh Al Gurg 
+Al Gurg 
+Retail/Logist 
+$1B+ 
+1 
+High 
+Strong female leadership 16 
+Muna Al Gurg 
+GMG 
+Baker 
+Retail/Logist 
+$1B+ 
+1 
+High 
+Sports retail expansion 15 
+Mohammad A. Baker 
+Tiger Group 
+Al-Zubi 
+Diversified 
+$500M-$1B 
+2 
+Medium 
+Needs corporate structuring 15 
+Family Managed 
+Crescent Group 
+Jafar 
+Energy/Ports 
+$1B+ 
+1 
+High 
+Energy transition focus 16 
+Badr Jafar 
+Ghassan Aboud Group 
+Aboud 
+Logistics 
+$500M-$1B 
+2 
+Medium 
+Healthcare expansion 16 
+Ghassan Aboud 
+Seddiqi Holding 
+Seddiqi 
+Luxury Retail 
+$500M-$1B 
+2 
+High 
+Modern family council 17 
+Osama Seddiqi 
+Al Shirawi Group 
+Al Shirawi 
+Industrial 
+$1B+ 
+1 
+Medium 
+Integrated logistics 16 
+Navin Valrani 
+Gargash Group 
+Gargash 
+Auto/Finance 
+$500M-$1B 
+2 
+Medium 
+Digital marketing pivot 16 
+Family Managed 
+Al Nasser Holdings 
+Al Nasser 
+Industrial 
+$500M-$1B 
+2 
+Medium 
+Regional manufacturing 16 
+Family Managed 
+Saeed Al Naboodah 
+Al Naboodah 
+Diversified 
+$1B+ 
+1 
+High 
+Construction/Retail digital 16 
+Family Managed 
+Kanoo Group 
+Kanoo 
+Shipping 
+$1B+ 
+1 
+High 
+Global tax alignment 16 
+Mishal Kanoo 
+Darwish Holding 
+Al Darwish 
+Retail/Malls 
+$500M-$1B 
+2 
+High 
+Retail tech leadership 17 
+Bader Al-Darwish 
+Almuftah Group 
+Al Muftah 
+Industrial 
+$500M-$1B 
+2 
+Low 
+Needs corporate structuring 18 
+Abdulrahman Al-Muftah 
+AbuIssa Holding 
+Abu Issa 
+Retail/Trading 
+$500M-$1B 
+2 
+Medium 
+Digital supply chain target 18 
+Ashraf Abu Issa 
+Al Mulla Group 
+Al Mulla 
+Diversified 
+$1B+ 
+1 
+High 
+2022 Succession Award 17 
+Talal Al Mulla 
+BoodaiCorp 
+Boodai 
+Media/Avia 
+$1B+ 
+1 
+Medium 
+Aviation digital pivot 15 
+Jassim Boodai 
+Mezzan Holding 
+Al Wazzan 
+FMCG/Logist 
+$500M-$1B 
+2 
+High 
+Public listing management 17 
+Motasem Al Wazzan 
+Bukhamseen Holding 
+Bukhamseen 
+Diversified 
+$500M-$1B 
+2 
+Medium 
+NextGen transition signals 15 
+Jawad Bukhamseen 
+Al Bahar Group 
+Al Bahar 
+Industrial 
+$500M-$1B 
+2 
+Low 
+Informal board structure 14 
+Family Managed 
+Alzayani Invest 
+Al Zayani 
+Diversified 
+$500M-$1B 
+2 
+High 
+Global real estate focus 17 
+Nawaf Al Zayani 
+YBA Kanoo 
+Kanoo 
+Diversified 
+$1B+ 
+1 
+High 
+Logistics tech pivot 17 
+Fawzi Kanoo 
+Fakhro Group 
+Fakhro 
+Trading 
+$500M-$1B 
+2 
+Medium 
+Needs family constitution 14 
+Adel Fakhro 
+Saud Bahwan 
+Bahwan 
+Auto/Divers 
+$1B+ 
+1 
+High 
+Massive scale; tech pivot 17 
+Mohammed Saud Bahwan 
+Suhail Bahwan 
+Bahwan 
+Industrial 
+$1B+ 
+1 
+Medium 
+Restructuring needed 15 
+Suhail Bahwan 
+Zubair Corp 
+Al Zubair 
+Diversified 
+$1B+ 
+1 
+High 
+Strong corporate governance 15 
+Rashad Al Zubair 
+Towell Group 
+Towell 
+Diversified 
+$500M-$1B 
+2 
+High 
+FMCG digital supply chain 17 
+Hussain Jawad 
+Mohsin H. Darwish 
+Darwish 
+Auto/Divers 
+$500M-$1B 
+2 
+High 
+Strong female leadership 15 
+Areej Darwish 
+Assila Investments 
+Al Issa 
+Investment 
+$500M-$1B 
+2 
+Medium 
+Needs tax optimization 15 
+Family Managed 
+Hamad Al Sagri 
+Al Sagri 
+Diversified 
+$500M-$1B 
+2 
+Medium 
+Health investment focus 15 
+Family Managed 
+Al Nahdi Family Off. 
+Al Nahdi 
+Pharma/Retail 
+$50M-$500M 
+3 
+High 
+Modern governance framework 23 
+Family Office Dir. 
+Sultan Holding 
+Sultan 
+Diversified 
+$500M-$1B 
+2 
+Medium 
+Modern entity spin-off 15 
+Family Managed 
+Almajdouie Group 
+Al Majdouie 
+Logistics 
+$1B+ 
+1 
+High 
+Port logistics automation 19 
+Abdullah Al Majdouie 
+Xenel Industries 
+Alireza 
+Industrial 
+$1B+ 
+1 
+High 
+Petrochemical ventures 15 
+Khalid Alireza 
+Al-Kifah Holding 
+Al Afaleq 
+Diversified 
+$1B+ 
+1 
+Medium 
+Digital construction focus 10 
+Osama Al Afaleq 
+Al Mutlaq Group 
+Al Mutlaq 
+Industrial 
+$1B+ 
+1 
+High 
+Restructuring for NextGen 15 
+Family Managed 
+Shibh Al Jazira 
+Al Nafjan 
+Construction 
+$1B+ 
+1 
+Medium 
+Needs corporate framework 10 
+Family Managed 
+Al-Ameel Group 
+Al Ameel 
+Diversified 
+$50M-$500M 
+3 
+Low 
+Governance advisory target 20 
+Family Managed 
+Front End Limited 
+Al-Ghaslan 
+Tech/Energy 
+$50M-$500M 
+3 
+Medium 
+Digital transformation focus 20 
+Majid Al-Ghaslan 
+Maarif Education 
+Al Tuwaijri 
+Education 
+$50M-$500M 
+3 
+Medium 
+Family council structuring 20 
+Family Managed 
+sanad Investment 
+sanad 
+Investment 
+$50M-$500M 
+3 
+Low 
+Tax advisory target 20 
+Family Managed 
+University Bus Tech 
+Family 
+Education 
+$50M-$500M 
+3 
+Low 
+Governance framework needs 20 
+Family Managed 
+Ali Zaid Al-Quraishi 
+Al Quraishi 
+Diversified 
+$1B+ 
+1 
+High 
+Strategic maturity 20 
+Faisal Al-Quraishi 
