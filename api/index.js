@@ -2,6 +2,9 @@ import express from 'express';
 import cors from 'cors';
 import { GoogleGenAI } from '@google/genai';
 import dotenv from 'dotenv';
+import fs from 'fs';
+import path from 'path';
+import os from 'os';
 
 // Locally, load .env. On Vercel, this is ignored if variables are already set.
 dotenv.config();
@@ -13,6 +16,18 @@ app.use(express.json({ limit: '4mb' }));
 const PROJECT = process.env.VERTEX_PROJECT;
 const LOCATION = process.env.VERTEX_LOCATION || 'us-central1';
 const MODEL = process.env.VERTEX_MODEL || 'gemini-2.0-flash-001';
+
+// ── Handle Google Credentials on Vercel ──────────────────────────────────────
+if (process.env.GOOGLE_CREDENTIALS_JSON) {
+    try {
+        const tempCredsPath = path.join(os.tmpdir(), 'google-credentials.json');
+        fs.writeFileSync(tempCredsPath, process.env.GOOGLE_CREDENTIALS_JSON);
+        process.env.GOOGLE_APPLICATION_CREDENTIALS = tempCredsPath;
+        console.log('[API] ✅  Created temporary credentials file from GOOGLE_CREDENTIALS_JSON');
+    } catch (err) {
+        console.error('[API] ❌  Failed to create temporary credentials file:', err.message);
+    }
+}
 
 const ai = new GoogleGenAI({
     vertexai: true,
