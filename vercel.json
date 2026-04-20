@@ -5,6 +5,22 @@
       "destination": "/api/index.js"
     },
     {
+      "source": "/serpapi/(.*)",
+      "destination": "https://serpapi.com/$1"
+    },
+    {
+      "source": "/getprospect/(.*)",
+      "destination": "https://api.getprospect.com/$1"
+    },
+    {
+      "source": "/linkfinder",
+      "destination": "https://api.linkfinderai.com"
+    },
+    {
+      "source": "/linkfinder/(.*)",
+      "destination": "https://api.linkfinderai.com/$1"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
