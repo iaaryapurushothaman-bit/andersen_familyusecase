@@ -45,11 +45,16 @@ if (process.env.GOOGLE_CREDENTIALS_JSON) {
     }
 }
 
-const ai = new GoogleGenAI({
-    vertexai: true,
-    project: PROJECT,
-    location: LOCATION,
-});
+let ai: any = null;
+try {
+    ai = new GoogleGenAI({
+        vertexai: true,
+        project: PROJECT,
+        location: LOCATION,
+    });
+} catch (startupErr: any) {
+    console.error("[API] Failed to initialize GoogleGenAI on startup:", startupErr.message);
+}
 
 // Middleware to log requests (useful for Vercel logs)
 app.use((req, res, next) => {
@@ -57,7 +62,15 @@ app.use((req, res, next) => {
     next();
 });
 
+app.post('/api/log', (req, res) => {
+    // Dummy route to absorb frontend terminal logs on Vercel
+    res.status(200).send('ok');
+});
+
 app.post('/api/vertex/generate', async (req, res) => {
+    if (!ai) {
+        return res.status(500).json({ error: 'GoogleGenAI failed to initialize. Check your Google credentials.' });
+    }
     if (!PROJECT) {
         return res.status(500).json({ error: 'VERTEX_PROJECT environment variable not set in Vercel' });
     }
