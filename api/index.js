@@ -100,7 +100,7 @@ app.get('/api/vertex/health', (_req, res) => {
 });
 
 // Default handler for all other /api routes
-app.all('/api/*', (req, res) => {
+app.use('/api', (req, res) => {
     res.status(404).json({ error: `Path ${req.url} not found on serverless function` });
 });
 
