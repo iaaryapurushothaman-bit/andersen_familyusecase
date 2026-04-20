@@ -2,9 +2,6 @@ import { FunctionTool, LlmAgent } from './adk-web-patch';
 import { z } from 'zod';
 import businesses from '../data/businesses.json';
 
-// Safe environment variable access for Vite
-const SERPAPI_API_KEY = import.meta.env.VITE_SERPAPI_API_KEY;
-
 // ── Tool 1: Lookup a specific company/family/industry ──────────────────────
 export const lookupBusinessDataTool = new FunctionTool({
     name: 'lookup_business_data',
@@ -160,6 +157,7 @@ export const queryBusinessDataTool = new FunctionTool({
 });
 
 // Define the SerpApi Search Tool (Web Search)
+// Routes through the backend proxy to avoid browser CORS restrictions
 export const serpApiTool = new FunctionTool({
     name: 'web_search_serpapi',
     description: 'Performs a Google search using SerpApi to find latest information about family businesses in Saudi Arabia.',
@@ -169,18 +167,14 @@ export const serpApiTool = new FunctionTool({
     execute: async (args: { query: string }) => {
         console.log("ADK Tool Call: web_search_serpapi", args);
         try {
-            const response = await fetch(`/serpapi/search?q=${encodeURIComponent(args.query)}&api_key=${SERPAPI_API_KEY}`);
-            if (!response.ok) throw new Error(`SerpApi search failed with status: ${response.status}`);
+            // Call via backend proxy (server/index.js) to avoid CORS issues
+            const response = await fetch(`/api/vertex/serpapi?q=${encodeURIComponent(args.query)}`);
+            if (!response.ok) {
+                const errData = await response.json().catch(() => ({}));
+                throw new Error(`SerpApi proxy error ${response.status}: ${errData.error || response.statusText}`);
+            }
             const data = await response.json();
-
-            // Extract organic results
-            const results = (data.organic_results || []).slice(0, 5).map((r: any) => ({
-                title: r.title,
-                link: r.link,
-                snippet: r.snippet
-            }));
-
-            return { status: 'success', results };
+            return data; // Already formatted as { status, results }
         } catch (error: any) {
             console.error("SerpApi Tool Error:", error);
             return { status: 'error', message: error.message };

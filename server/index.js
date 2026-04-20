@@ -59,6 +59,42 @@ app.post('/api/vertex/generate', async (req, res) => {
     }
 });
 
+// ── GET /api/vertex/serpapi ───────────────────────────────────────────────────
+// Proxies web search requests to SerpAPI server-side (avoids browser CORS block)
+// Query params: ?q=<search query>
+app.get('/api/vertex/serpapi', async (req, res) => {
+    try {
+        const query = req.query.q;
+        if (!query) return res.status(400).json({ error: 'Missing query parameter: q' });
+
+        const SERPAPI_KEY = process.env.VITE_SERPAPI_API_KEY;
+        if (!SERPAPI_KEY) return res.status(500).json({ error: 'SERPAPI key not configured on server' });
+
+        const url = `https://serpapi.com/search.json?q=${encodeURIComponent(query)}&api_key=${SERPAPI_KEY}&engine=google&num=5`;
+        console.log(`[SerpAPI Proxy] → Searching: "${query}"`);
+
+        const response = await fetch(url);
+        if (!response.ok) {
+            const errText = await response.text();
+            console.error(`[SerpAPI Proxy] ✗ SerpAPI returned ${response.status}:`, errText);
+            return res.status(response.status).json({ error: `SerpAPI error: ${response.status}`, detail: errText });
+        }
+
+        const data = await response.json();
+        const results = (data.organic_results || []).slice(0, 5).map(r => ({
+            title: r.title,
+            link: r.link,
+            snippet: r.snippet
+        }));
+
+        console.log(`[SerpAPI Proxy] ← OK, returned ${results.length} results`);
+        res.json({ status: 'success', results });
+    } catch (err) {
+        console.error('[SerpAPI Proxy] ✗ Error:', err?.message || err);
+        res.status(500).json({ error: err?.message || 'Internal server error' });
+    }
+});
+
 // ── Health check ─────────────────────────────────────────────────────────────
 app.get('/api/vertex/health', (_req, res) => {
     res.json({ status: 'ok', project: PROJECT, location: LOCATION, model: MODEL });
