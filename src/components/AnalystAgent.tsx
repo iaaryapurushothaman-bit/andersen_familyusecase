@@ -25,7 +25,7 @@ const AnalystAgent: React.FC<AnalystAgentProps> = ({ selectedBusiness }) => {
 
         const checkCache = async () => {
             if (import.meta.env.VITE_SUPABASE_URL && import.meta.env.VITE_SUPABASE_ANON_KEY) {
-                const { data, error: cacheError } = await supabase
+                const { data } = await supabase
                     .from('cached_reports')
                     .select('report_content')
                     .eq('company_name', selectedBusiness.name)

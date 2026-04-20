@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * Patched version of @google/adk/dist/web/common.js
  * Bypasses ApigeeLlm due to "Unexpected super" bug in the official distribution.

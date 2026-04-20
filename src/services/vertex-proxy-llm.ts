@@ -23,6 +23,7 @@ interface LlmResponse {
 export class VertexProxyLlm extends BaseLlm {
     /** URL of the backend proxy endpoint */
     private readonly proxyUrl: string;
+    public model: string;
 
     constructor({
         model = 'gemini-2.0-flash-001',
@@ -33,6 +34,7 @@ export class VertexProxyLlm extends BaseLlm {
     } = {}) {
         super({ model });
         this.proxyUrl = proxyUrl;
+        this.model = model;
     }
 
     // Supported model patterns (forwarded to the proxy, which decides the real model)

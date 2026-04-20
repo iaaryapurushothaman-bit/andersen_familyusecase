@@ -20,11 +20,11 @@ const mockApigeePlugin = () => ({
 
 const terminalLoggerPlugin = () => ({
   name: 'terminal-logger',
-  configureServer(server) {
-    server.middlewares.use('/api/log', (req, res) => {
+  configureServer(server: any) {
+    server.middlewares.use('/api/log', (req: any, res: any) => {
       if (req.method === 'POST') {
         let body = '';
-        req.on('data', chunk => { body += chunk; });
+        req.on('data', (chunk: any) => { body += chunk; });
         req.on('end', () => {
           try {
             const data = JSON.parse(body);
