@@ -45,14 +45,14 @@ if (process.env.GOOGLE_CREDENTIALS_JSON) {
     }
 }
 
-let ai: any = null;
+let ai = null;
 try {
     ai = new GoogleGenAI({
         vertexai: true,
         project: PROJECT,
         location: LOCATION,
     });
-} catch (startupErr: any) {
+} catch (startupErr) {
     console.error("[API] Failed to initialize GoogleGenAI on startup:", startupErr.message);
 }
 
