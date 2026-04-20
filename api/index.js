@@ -99,6 +99,42 @@ app.get('/api/vertex/health', (_req, res) => {
     });
 });
 
+// ── GET /api/vertex/serpapi ────────────────────────────────────────────────────
+// Proxies web search to SerpAPI server-side to avoid browser CORS restrictions
+// Query params: ?q=<search query>
+app.get('/api/vertex/serpapi', async (req, res) => {
+    try {
+        const query = req.query.q;
+        if (!query) return res.status(400).json({ error: 'Missing query parameter: q' });
+
+        const SERPAPI_KEY = process.env.VITE_SERPAPI_API_KEY;
+        if (!SERPAPI_KEY) return res.status(500).json({ error: 'SERPAPI key not configured on server' });
+
+        const url = `https://serpapi.com/search.json?q=${encodeURIComponent(query)}&api_key=${SERPAPI_KEY}&engine=google&num=5`;
+        console.log(`[SerpAPI] → Searching: "${query}"`);
+
+        const response = await fetch(url);
+        if (!response.ok) {
+            const errText = await response.text();
+            console.error(`[SerpAPI] ✗ ${response.status}:`, errText);
+            return res.status(response.status).json({ error: `SerpAPI error: ${response.status}`, detail: errText });
+        }
+
+        const data = await response.json();
+        const results = (data.organic_results || []).slice(0, 5).map(r => ({
+            title: r.title,
+            link: r.link,
+            snippet: r.snippet
+        }));
+
+        console.log(`[SerpAPI] ← OK, ${results.length} results`);
+        res.json({ status: 'success', results });
+    } catch (err) {
+        console.error('[SerpAPI] ✗ Error:', err?.message || err);
+        res.status(500).json({ error: err?.message || 'Internal server error' });
+    }
+});
+
 // Default handler for all other /api routes
 app.use('/api', (req, res) => {
     res.status(404).json({ error: `Path ${req.url} not found on serverless function` });
