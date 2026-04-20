@@ -27,6 +27,22 @@ if (process.env.GOOGLE_CREDENTIALS_JSON) {
     } catch (err) {
         console.error('[API] ❌  Failed to create temporary credentials file:', err.message);
     }
+} else if (process.env.GOOGLE_CLIENT_EMAIL && process.env.GOOGLE_PRIVATE_KEY) {
+    try {
+        // Handle Vercel escaping literal \n
+        const privateKey = process.env.GOOGLE_PRIVATE_KEY.replace(/\\n/g, '\n');
+        const credsObj = {
+            type: "service_account",
+            client_email: process.env.GOOGLE_CLIENT_EMAIL,
+            private_key: privateKey
+        };
+        const tempCredsPath = path.join(os.tmpdir(), 'google-credentials-piecemeal.json');
+        fs.writeFileSync(tempCredsPath, JSON.stringify(credsObj));
+        process.env.GOOGLE_APPLICATION_CREDENTIALS = tempCredsPath;
+        console.log('[API] ✅  Created temporary credentials file from piecemeal variables');
+    } catch (err) {
+        console.error('[API] ❌  Failed to construct temporary credentials file:', err.message);
+    }
 }
 
 const ai = new GoogleGenAI({
